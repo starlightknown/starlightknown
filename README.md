@@ -30,14 +30,7 @@
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-</a>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kcoder63&show_icons=true&theme=tokyonight&line_height=52" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&count_private=true&theme=tokyonight&line_height=52">
-</p>
+<a />
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28) -->
