@@ -11,3 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/starlightknown?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kcoder63&show_icons=true&theme=tokyonight&line_height=52" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&count_private=true&theme=tokyonight&line_height=52">
+</p>
