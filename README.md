@@ -12,8 +12,6 @@
   </a>
 </p>
 
-
-<br />
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
@@ -25,7 +23,7 @@
 <img align="left" alt="Heroku" width="30px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
 
 <br />
-<br />
+
 ## Github Stats:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
