@@ -32,5 +32,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-[![Linkedin: Karuna Tata](https://img.shields.io/badge/-kcoder63-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karuna-tata63/)](https://www.linkedin.com/in/karuna-tata63/) <img src="https://komarev.com/ghpvc/?username=adreaskar&color=yellow" alt="adreaskar" />
+[![Linkedin: Karuna Tata](https://img.shields.io/badge/-Karuna_Tata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karuna-tata63/)](https://www.linkedin.com/in/karuna-tata63/) <img src="https://komarev.com/ghpvc/?username=kcoder63&color=yellow" alt="kcoder63" />
  
