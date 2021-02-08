@@ -2,15 +2,7 @@
 ## I'm Karuna Tata, a data scientist in making,machine learning enthusiast
 ## 🌱 I’m currently learning Julia and python
 ## 👯 I’m looking to collaborate on ML and AI projects
-## 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/karuna-tata63
 ## 😄 Pronouns: She / her
-
-### Connect with me:
-<p align="center">
-  <a href="http://twitter.com/starlightknown">
-    <img src="https://img.shields.io/twitter/follow/starlightknown?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-</p>
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
@@ -24,13 +16,19 @@
 
 <br />
 
+### Connect with me:
+<a href="https://twitter.com/starlightknown" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
+
+<br />
+<br />
+
 ## Github Stats:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 
+<br />
+<br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
-[![Linkedin: Karuna Tata](https://img.shields.io/badge/-Karuna_Tata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karuna-tata63/)](https://www.linkedin.com/in/karuna-tata63/) <img src="https://komarev.com/ghpvc/?username=kcoder63&color=yellow" alt="kcoder63" />
- 
