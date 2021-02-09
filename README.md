@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="1000px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823" alt="octocat">
+  <img width="500px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823.jpg" alt="octocat">
 </p>
 
-### Hi there 👋
-## I'm Karuna Tata, a data scientist in making,machine learning enthusiast
-## 🌱 I’m currently learning Julia and python
-## 👯 I’m looking to collaborate on ML and AI projects
-## 😄 Pronouns: She / her
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+- I'm Karuna Tata, a data scientist in making,machine learning enthusiast
+- 🌱 I’m currently learning Julia and python
+- 👯 I’m looking to collaborate on ML and AI projects
+- 😄 Pronouns: She / her
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
@@ -41,6 +41,7 @@
 
 <br/>
 <br/>
+
 ## Github Stats:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
