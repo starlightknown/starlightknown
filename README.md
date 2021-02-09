@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="1000px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823" alt="octocat">
+</p>
+
 ### Hi there 👋
 ## I'm Karuna Tata, a data scientist in making,machine learning enthusiast
 ## 🌱 I’m currently learning Julia and python
@@ -22,6 +26,21 @@
 <br />
 <br />
 
+## 🔥 My contribution streak
+
+<!-- https://github.com/kcoder63/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/kcoder63/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcoder63&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+  <br/>
+  🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/kcoder63?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+
+<br/>
+<br/>
 ## Github Stats:
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
