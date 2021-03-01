@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823.jpg" alt="octocat">
+  <img width="400px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823.jpg" alt="octocat">
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -25,6 +25,7 @@
 
 <br />
 <br />
+<br />
 
 ## 🔥 My contribution streak
 
@@ -39,8 +40,7 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/kcoder63?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-<br/>
-<br/>
+<br />
 
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
