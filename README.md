@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400px" src="https://github.com/kcoder63/kcoder63/blob/main/IMG_20210209_180823.jpg" alt="octocat">
+  <img width="400px" src="https://github.com/kcoder63/starlightknown/blob/main/IMG_20210209_180823.jpg" alt="octocat">
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -21,7 +21,7 @@
 <br />
 
 ### Connect with me:
-<a href="https://twitter.com/starlightknown" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
+<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
 
 <br />
 <br />
@@ -31,14 +31,14 @@
 
 <!-- https://github.com/kcoder63/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/kcoder63/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kcoder63&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <a href="https://github.com/starlightknown/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=starlightknown&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
   <br/>
   🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/kcoder63?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/starlightknown?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 <br />
 
@@ -59,20 +59,20 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/kcoder63/Edbeepbot"><b> Edbeepbot </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/kcoder63/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/kcoder63/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/kcoder63/Edbeepbot?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kcoder63/Edbeepbot?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/kcoder63/Edbeepbot?style=flat-square"/></td>
+	      <td><a href="https://github.com/starlightknown/Edbeepbot"><b> Edbeepbot </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Edbeepbot?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Edbeepbot?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Edbeepbot?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/kcoder63/SuperMaxioCheckers_snakes-hackers"><b>💻 Super Maxio Checkers</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/kcoder63/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/kcoder63/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/kcoder63/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/kcoder63/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/kcoder63/SuperMaxioCheckers_snakes-hackers?label=Python&style=flat-square"/></td>
+	      <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers"><b>💻 Super Maxio Checkers</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/SuperMaxioCheckers_snakes-hackers?label=Python&style=flat-square"/></td>
       </tr>
       
   </tbody>
@@ -84,19 +84,19 @@
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=akshitagupta15june&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=starlightknown&theme=gruvbox"/>
   </a>
 </p>
 </details>
 
 ## Github Stats:
-[![Karuna's github activity graph](https://activity-graph.herokuapp.com/graph?username=kcoder63&theme=xcode)](https://git.io/kcoder63)
+[![Karuna's github activity graph](https://activity-graph.herokuapp.com/graph?username=starlightknown&theme=xcode)](https://git.io/starlightknown)
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kcoder63&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=starlightknown&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcoder63&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starlightknown&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
