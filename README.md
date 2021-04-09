@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400px" src="https://github.com/kcoder63/starlightknown/blob/main/IMG_20210209_180823.jpg" alt="octocat">
+  <img width="500px" src="https://github.com/starlightknown/starlightknown/blob/main/hello.gif" alt="hello">
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -27,20 +27,6 @@
 <br />
 <br />
 
-## 🔥 My contribution streak
-
-<!-- https://github.com/kcoder63/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/starlightknown/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=starlightknown&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-  <br/>
-  🔥 Get streak stats for your profile 👉 <a href="http://git.io/streak-stats">git.io/streak-stats</a>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/starlightknown?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-<br />
 
  <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
 
@@ -79,24 +65,8 @@
   </table>
 
 <br/>  
-  
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
+ 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=starlightknown&theme=gruvbox"/>
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=starlightknown&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=starlightknown&theme=tokyonight" />
 </p>
-</details>
-
-## Github Stats:
-[![Karuna's github activity graph](https://activity-graph.herokuapp.com/graph?username=starlightknown&theme=xcode)](https://git.io/starlightknown)
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=starlightknown&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starlightknown&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
