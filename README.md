@@ -21,14 +21,14 @@
 <br />
 
 ### Connect with me:
-<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="left"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="left"></a>
+<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
 
 <br />
 <br />
 <br />
 
 
- <summary><h2><b>🥇 Open Source Projects open for contributions.</b></h2></summary>
+ <summary><h2><b>🥇 Open Source Projects open for contributions. </b></h2></summary>
 
 
   <br />
