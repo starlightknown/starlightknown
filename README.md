@@ -21,7 +21,7 @@
 <br />
 
 ### Connect with me:
-<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
+<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA" target="_blank"><img src="iconfinder_social_media_isometric_2-youtube_3529652.png" height="120px" width="120px" alt="Youtube" align="center"></a>
 
 <br />
 <br />
