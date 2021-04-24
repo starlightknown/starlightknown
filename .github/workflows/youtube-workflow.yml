@@ -17,5 +17,4 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCDOJcRyIWd2k2wFSfme5CVA"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           max_post_count: 6
-          template: "$newline[![$title](https://freshidea.com/codeo-city/app/youtube-card/?id=$videoId&title=FFFFFF)]($url \"$title\")"
           committer_email: "karunatata63@gmail.com"
