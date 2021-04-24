@@ -31,10 +31,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
-
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/Codeo-city?sub_confirmation=1)
-
+<!-- YOUTUBE:END -->
 
  <summary><h2><b>🥇 Open Source Projects open for contributions. </b></h2></summary>
 
