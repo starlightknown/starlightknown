@@ -31,6 +31,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [IoT Simplified - How does it work?](https://www.youtube.com/watch?v=vng5RJolByA)
 <!-- YOUTUBE:END -->
 
  <summary><h2><b>🥇 Open Source Projects open for contributions. </b></h2></summary>
