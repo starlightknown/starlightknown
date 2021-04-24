@@ -29,7 +29,6 @@
 ## 📺 Latest YouTube videos
 
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
-<!-- YouTube Cards - WIP by DenverCoder1 -->
 
 <!-- YOUTUBE:START -->
 
