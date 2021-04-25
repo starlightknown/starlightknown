@@ -83,9 +83,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/starlightknown/OpenX/pull/18) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
-2. 💪 Opened PR [#18](https://github.com/starlightknown/OpenX/pull/18) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
-3. 🎉 Merged PR [#7](https://github.com/starlightknown/starlightknown/pull/7) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 💪 Opened PR [#7](https://github.com/starlightknown/starlightknown/pull/7) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. 🎉 Merged PR [#6](https://github.com/starlightknown/starlightknown/pull/6) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+1. 🗣 Commented on [#19](https://github.com/starlightknown/OpenX/issues/19) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
+2. 🎉 Merged PR [#19](https://github.com/starlightknown/OpenX/pull/19) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
+3. 🎉 Merged PR [#18](https://github.com/starlightknown/OpenX/pull/18) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
+4. 💪 Opened PR [#18](https://github.com/starlightknown/OpenX/pull/18) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
+5. 🎉 Merged PR [#7](https://github.com/starlightknown/starlightknown/pull/7) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
