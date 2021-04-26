@@ -67,6 +67,21 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/SuperMaxioCheckers_snakes-hackers?label=Python&style=flat-square"/></td>
       </tr>
+	      <td><a href="https://github.com/starlightknown/OpenX"><b> OpenX </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/OpenX?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/OpenX?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/OpenX?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/OpenX?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/OpenX?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/starlightknown/Cyberon"><b> Cyberon </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Cyberon?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Cyberon?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Cyberon?style=flat-square"/></td>
+      </tr>
       
   </tbody>
   </table>
