@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon(2).png" />
-  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/tenor.gif" />
-</p>
+  <img width="100%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon(2).png" />
+	</p>
 							 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
