@@ -3,6 +3,9 @@
 </p>
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img src="tenor.gif" width="300px" height="300px" align="right>
+							 
 - I'm Karuna Tata, a data scientist in making,machine learning enthusiast
 - 🌱 I’m currently learning Julia and python
 - 👯 I’m looking to collaborate on ML and AI projects
