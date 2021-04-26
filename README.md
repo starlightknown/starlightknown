@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="700px" height="300px" src="https://github.com/starlightknown/starlightknown/blob/main/hello.gif" alt="hello">
+  <img width="697px" height="219px" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/readme_.gif" alt="hello">
 </p>
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon(3).png" />
+  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon(2).png" />
   <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/tenor.gif" />
 </p>
 							 
