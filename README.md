@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/starlightknown/starlightknown/pull/9) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-2. 💪 Opened PR [#9](https://github.com/starlightknown/starlightknown/pull/9) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-3. 🎉 Merged PR [#8](https://github.com/starlightknown/starlightknown/pull/8) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 💪 Opened PR [#8](https://github.com/starlightknown/starlightknown/pull/8) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. 🗣 Commented on [#19](https://github.com/starlightknown/OpenX/issues/19) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
+1. ❗️ Opened issue [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 🎉 Merged PR [#9](https://github.com/starlightknown/starlightknown/pull/9) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+3. 💪 Opened PR [#9](https://github.com/starlightknown/starlightknown/pull/9) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🎉 Merged PR [#8](https://github.com/starlightknown/starlightknown/pull/8) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 💪 Opened PR [#8](https://github.com/starlightknown/starlightknown/pull/8) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
