@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+1. 💪 Opened PR [#18](https://github.com/EddieHubCommunity/Branding/pull/18) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 2. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 3. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. ❗️ Opened issue [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-5. 🎉 Merged PR [#9](https://github.com/starlightknown/starlightknown/pull/9) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🗣 Commented on [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. ❗️ Opened issue [#17](https://github.com/EddieHubCommunity/Branding/issues/17) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
 <!--END_SECTION:activity-->
