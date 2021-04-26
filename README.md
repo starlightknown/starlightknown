@@ -2,11 +2,8 @@
   <img width="500px" src="https://github.com/starlightknown/starlightknown/blob/main/hello.gif" alt="hello">
 </p>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <p align="center">
-	
-  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon.png" />
+  <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/carbon(2).png" />
   <img width="48%" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/tenor.gif" />
 </p>
 							 
