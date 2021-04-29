@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/starlightknown/Cyberon/issues/24) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-2. 🗣 Commented on [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+1. ❗️ Opened issue [#25](https://github.com/starlightknown/Cyberon/issues/25) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. ❗️ Opened issue [#24](https://github.com/starlightknown/Cyberon/issues/24) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 3. 🗣 Commented on [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-4. 🎉 Merged PR [#23](https://github.com/starlightknown/Cyberon/pull/23) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 💪 Opened PR [#23](https://github.com/starlightknown/Cyberon/pull/23) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🗣 Commented on [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+5. 🎉 Merged PR [#23](https://github.com/starlightknown/Cyberon/pull/23) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
