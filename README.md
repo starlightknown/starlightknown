@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/starlightknown/Cyberon/issues/25) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-2. 🎉 Merged PR [#26](https://github.com/starlightknown/Cyberon/pull/26) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🎉 Merged PR [#27](https://github.com/starlightknown/Cyberon/pull/27) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 🗣 Commented on [#26](https://github.com/starlightknown/Cyberon/issues/26) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 3. 🗣 Commented on [#26](https://github.com/starlightknown/Cyberon/issues/26) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 🗣 Commented on [#26](https://github.com/starlightknown/Cyberon/issues/26) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. ❗️ Opened issue [#25](https://github.com/starlightknown/Cyberon/issues/25) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. ❗️ Closed issue [#25](https://github.com/starlightknown/Cyberon/issues/25) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 🎉 Merged PR [#26](https://github.com/starlightknown/Cyberon/pull/26) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
