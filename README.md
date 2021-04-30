@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/12) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-2. 💪 Opened PR [#12](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/12) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-3. ❗️ Opened issue [#16098](https://github.com/microsoft/vscode-python/issues/16098) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-4. ❗️ Opened issue [#122717](https://github.com/microsoft/vscode/issues/122717) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🎉 Merged PR [#27](https://github.com/starlightknown/Cyberon/pull/27) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🎉 Merged PR [#13](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/13) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+2. 💪 Opened PR [#13](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/13) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+3. 🎉 Merged PR [#12](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/12) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+4. 💪 Opened PR [#12](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/12) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+5. ❗️ Opened issue [#16098](https://github.com/microsoft/vscode-python/issues/16098) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
 <!--END_SECTION:activity-->
