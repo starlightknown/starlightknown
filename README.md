@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/24) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-2. 🎉 Merged PR [#27](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/27) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-3. 🎉 Merged PR [#26](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/26) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-4. 💪 Opened PR [#26](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/26) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-5. ❗️ Closed issue [#17](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/17) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+1. ❗️ Opened issue [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❌ Closed PR [#24](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/24) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+3. 🎉 Merged PR [#27](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/27) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+4. 🎉 Merged PR [#26](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/26) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+5. 💪 Opened PR [#26](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/26) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
 <!--END_SECTION:activity-->
