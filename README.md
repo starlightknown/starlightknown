@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/23) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-2. 🗣 Commented on [#17](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/17) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-3. 🗣 Commented on [#21](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/21) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-4. 🎉 Merged PR [#21](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/21) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-5. 🗣 Commented on [#19](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/19) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+1. ❗️ Closed issue [#17](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/17) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+2. 🎉 Merged PR [#25](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/25) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+3. 💪 Opened PR [#25](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/25) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+4. 🎉 Merged PR [#23](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/23) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+5. 🗣 Commented on [#17](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/17) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
 <!--END_SECTION:activity-->
