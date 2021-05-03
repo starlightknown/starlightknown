@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/starlightknown/brokers_ofspace/pull/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-2. 🗣 Commented on [#12](https://github.com/starlightknown/brokers_ofspace/issues/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-3. ❗️ Opened issue [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❌ Closed PR [#24](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/24) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-5. 🎉 Merged PR [#27](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/27) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+1. 🎉 Merged PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 💪 Opened PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 🎉 Merged PR [#12](https://github.com/starlightknown/brokers_ofspace/pull/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+4. 🗣 Commented on [#12](https://github.com/starlightknown/brokers_ofspace/issues/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+5. ❗️ Opened issue [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
