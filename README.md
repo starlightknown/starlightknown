@@ -18,10 +18,51 @@
 
 <br />
 
-### Connect with me:
-<a href="https://twitter.com/starlightknown_" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.linkedin.com/in/karuna-tata63/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="center"></a><a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA" target="_blank"><img src="iconfinder_social_media_isometric_2-youtube_3529652.png" height="120px" width="120px" alt="Youtube" align="center"></a>
-
-<br />
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong>I'm part of these organisations:</strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <strong>connect with me:</strong><br>
+      <table>
+        <tr>
+          <td align="left">
+            <a href="https://twitter.com/starlightknown_">
+              <img width="20%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
+            </a>
+          </td>
+	<td align="left">
+            <a href="https://www.linkedin.com/in/karuna-tata63/">
+              <img width="20%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+            </a>
+          </td>    
+        </tr>
+      <td align="left">
+            <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
+              <img width="20%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
+            </a>
+          </td>  
+	      <td align="left">
+            <a href="https://discord.gg/RZAwxWv62A">
+              <img width="20%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
+            </a>
+          </td>  
+	</tr>
+      </table>
+    </td>
+  </tr>
+</table>
+	
 <br />
 
 ## 📺 Latest YouTube videos
