@@ -139,9 +139,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#86](https://github.com/eddiejaoude/eddiejaoude/issues/86) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
-2. ❗️ Opened issue [#4](https://github.com/elenajp/elenajp/issues/4) in [elenajp/elenajp](https://github.com/elenajp/elenajp)
-3. 🗣 Commented on [#16098](https://github.com/microsoft/vscode-python/issues/16098) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
-4. 🎉 Merged PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 💪 Opened PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🗣 Commented on [#605](https://github.com/BeccaLyria/discord-bot/issues/605) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+2. ❗️ Opened issue [#605](https://github.com/BeccaLyria/discord-bot/issues/605) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
+3. ❗️ Opened issue [#86](https://github.com/eddiejaoude/eddiejaoude/issues/86) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+4. ❗️ Opened issue [#4](https://github.com/elenajp/elenajp/issues/4) in [elenajp/elenajp](https://github.com/elenajp/elenajp)
+5. 🗣 Commented on [#16098](https://github.com/microsoft/vscode-python/issues/16098) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
 <!--END_SECTION:activity-->
