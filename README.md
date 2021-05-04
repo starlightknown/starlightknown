@@ -97,9 +97,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-2. 💪 Opened PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-3. 🎉 Merged PR [#12](https://github.com/starlightknown/brokers_ofspace/pull/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-4. 🗣 Commented on [#12](https://github.com/starlightknown/brokers_ofspace/issues/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-5. ❗️ Opened issue [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#16098](https://github.com/microsoft/vscode-python/issues/16098) in [microsoft/vscode-python](https://github.com/microsoft/vscode-python)
+2. 🎉 Merged PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 💪 Opened PR [#28](https://github.com/starlightknown/Cyberon/pull/28) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🎉 Merged PR [#12](https://github.com/starlightknown/brokers_ofspace/pull/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+5. 🗣 Commented on [#12](https://github.com/starlightknown/brokers_ofspace/issues/12) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
 <!--END_SECTION:activity-->
