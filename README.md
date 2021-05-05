@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="697px" height="219px" src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/readme_.gif" alt="hello">
+  <img width="1000px" height="200px" src="readm.gif" alt="hello">
 </p>
 
 <p align="center">
