@@ -42,18 +42,19 @@
               <img width="20%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
           </td>
-	<td align="left">
+	  <td align="left">
             <a href="https://www.linkedin.com/in/karuna-tata63/">
               <img width="20%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
           </td>    
         </tr>
-      <td align="left">
+	<tr>
+          <td align="left">
             <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
               <img width="20%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
             </a>
           </td>  
-	      <td align="left">
+	  <td align="left">
             <a href="https://discord.gg/RZAwxWv62A">
               <img width="20%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
             </a>
@@ -63,7 +64,7 @@
     </td>
   </tr>
 </table>
-	
+
 <br />
 
 ## 📺 Latest YouTube videos
@@ -75,7 +76,7 @@
 - [IoT Simplified - How does it work?](https://www.youtube.com/watch?v=vng5RJolByA)
 <!-- YOUTUBE:END -->
 
- <summary><h2><b>🥇 Open Source Projects open for contributions. </b></h2></summary>
+ <h2>🥇 Open Source Projects open for contributions. </h2>
 
 
   <br />
@@ -92,7 +93,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/starlightknown/Edbeepbot"><b> Edbeepbot </b></a></td>
+	<td><a href="https://github.com/starlightknown/Edbeepbot"><b> Edbeepbot </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Edbeepbot?style=flat-square"/></td>
@@ -100,14 +101,14 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Edbeepbot?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers"><b>💻 Super Maxio Checkers</b></a></td>
+	<td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers"><b>💻 Super Maxio Checkers</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/SuperMaxioCheckers_snakes-hackers?label=Python&style=flat-square"/></td>
       </tr>
-	      <td><a href="https://github.com/starlightknown/OpenX"><b> OpenX </b></a></td>
+	<td><a href="https://github.com/starlightknown/OpenX"><b> OpenX </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/OpenX?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/OpenX?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/OpenX?style=flat-square"/></td>
@@ -115,7 +116,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/OpenX?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/starlightknown/Cyberon"><b> Cyberon </b></a></td>
+	<td><a href="https://github.com/starlightknown/Cyberon"><b> Cyberon </b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Cyberon?style=flat-square"/></td>
