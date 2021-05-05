@@ -37,14 +37,14 @@
       <h3>Connect with me:</h3>
       <table>
         <tr>
-          <td align="left" width="350">
+          <td align="left" width="300">
 <p align="center">
             <a href="https://twitter.com/starlightknown_">
               <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
 </p>
           </td>
-	  <td align="left" width="350">
+	  <td align="left" width="300">
 <p align="center">
             <a href="https://www.linkedin.com/in/karuna-tata63/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
@@ -53,14 +53,14 @@
           </td>    
         </tr>
 	<tr>
-          <td align="left" width="350">
+          <td align="left" width="300">
 <p align="center">
             <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
               <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
             </a>
 </p>
           </td>
-	  <td align="left" width="350">
+	  <td align="left" width="300">
 <p align="center">
             <a href="https://discord.gg/RZAwxWv62A">
               <img width="30%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
