@@ -22,42 +22,50 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong>I'm part of these organisations:</strong><br>
+      <h3>I'm part of these organisations:</h3>
       <table>
         <tr>
-          <td align="center">
+          <td align="center" width="200">
             <a href="https://github.com/EddieHubCommunity">
-              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+              <img width="100%" src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
             </a>
           </td>
         </tr>
       </table>
     </td>
     <td align="center">
-      <strong>connect with me:</strong><br>
+      <h3>Connect with me:</h3>
       <table>
         <tr>
-          <td align="left">
+          <td align="left" width="350">
+<p align="center">
             <a href="https://twitter.com/starlightknown_">
-              <img width="20%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
+              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
             </a>
+</p>
           </td>
-	  <td align="left">
+	  <td align="left" width="350">
+<p align="center">
             <a href="https://www.linkedin.com/in/karuna-tata63/">
-              <img width="20%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
+              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
+</p>
           </td>    
         </tr>
 	<tr>
-          <td align="left">
+          <td align="left" width="350">
+<p align="center">
             <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
-              <img width="20%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
+              <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
             </a>
-          </td>  
-	  <td align="left">
+</p>
+          </td>
+	  <td align="left" width="350">
+<p align="center">
             <a href="https://discord.gg/RZAwxWv62A">
-              <img width="20%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
+              <img width="30%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
             </a>
+</p>
           </td>  
 	</tr>
       </table>
