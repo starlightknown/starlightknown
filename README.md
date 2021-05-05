@@ -76,7 +76,7 @@
 - [IoT Simplified - How does it work?](https://www.youtube.com/watch?v=vng5RJolByA)
 <!-- YOUTUBE:END -->
 
- <summary><h2><b>🥇 Open Source Projects open for contributions. </b></h2></summary>
+ <h2>🥇 Open Source Projects open for contributions. </h2>
 
 
   <br />
