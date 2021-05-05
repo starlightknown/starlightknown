@@ -139,9 +139,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1477](https://github.com/EddieHubCommunity/support/issues/1477) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1480](https://github.com/EddieHubCommunity/support/issues/1480) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#605](https://github.com/BeccaLyria/discord-bot/issues/605) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-4. ❗️ Opened issue [#605](https://github.com/BeccaLyria/discord-bot/issues/605) in [BeccaLyria/discord-bot](https://github.com/BeccaLyria/discord-bot)
-5. ❗️ Opened issue [#86](https://github.com/eddiejaoude/eddiejaoude/issues/86) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+1. 🗣 Commented on [#1461](https://github.com/EddieHubCommunity/support/issues/1461) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1461](https://github.com/EddieHubCommunity/support/issues/1461) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1469](https://github.com/EddieHubCommunity/support/issues/1469) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1470](https://github.com/EddieHubCommunity/support/issues/1470) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1477](https://github.com/EddieHubCommunity/support/issues/1477) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
