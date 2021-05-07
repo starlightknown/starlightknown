@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-2. 💪 Opened PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-3. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#15](https://github.com/starlightknown/starlightknown.github.io/issues/15) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-5. 🗣 Commented on [#14](https://github.com/starlightknown/starlightknown.github.io/issues/14) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+1. 🎉 Merged PR [#1](https://github.com/starlightknown/Tec_magic/pull/1) in [starlightknown/Tec_magic](https://github.com/starlightknown/Tec_magic)
+2. 🎉 Merged PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 💪 Opened PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#15](https://github.com/starlightknown/starlightknown.github.io/issues/15) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 <!--END_SECTION:activity-->
