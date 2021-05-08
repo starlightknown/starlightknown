@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/kaiwalyakoparkar/Tec_magic/pull/6) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-2. 🎉 Merged PR [#1](https://github.com/starlightknown/Tec_magic-1/pull/1) in [starlightknown/Tec_magic-1](https://github.com/starlightknown/Tec_magic-1)
-3. 💪 Opened PR [#1](https://github.com/starlightknown/Tec_magic-1/pull/1) in [starlightknown/Tec_magic-1](https://github.com/starlightknown/Tec_magic-1)
-4. 🎉 Merged PR [#15](https://github.com/starlightknown/SpellBind/pull/15) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
-5. 💪 Opened PR [#15](https://github.com/starlightknown/SpellBind/pull/15) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+1. 🎉 Merged PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+2. 💪 Opened PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+3. 🎉 Merged PR [#6](https://github.com/kaiwalyakoparkar/Tec_magic/pull/6) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+4. 💪 Opened PR [#6](https://github.com/kaiwalyakoparkar/Tec_magic/pull/6) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+5. 🎉 Merged PR [#1](https://github.com/starlightknown/Tec_magic-1/pull/1) in [starlightknown/Tec_magic-1](https://github.com/starlightknown/Tec_magic-1)
 <!--END_SECTION:activity-->
