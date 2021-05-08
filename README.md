@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/starlightknown/Tec_magic/issues/12) in [starlightknown/Tec_magic](https://github.com/starlightknown/Tec_magic)
-2. 🗣 Commented on [#12](https://github.com/starlightknown/Tec_magic/issues/12) in [starlightknown/Tec_magic](https://github.com/starlightknown/Tec_magic)
-3. 🎉 Merged PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 💪 Opened PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#15](https://github.com/starlightknown/SpellBind/pull/15) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+2. 💪 Opened PR [#15](https://github.com/starlightknown/SpellBind/pull/15) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+3. 🗣 Commented on [#12](https://github.com/starlightknown/Tec_magic/issues/12) in [starlightknown/Tec_magic](https://github.com/starlightknown/Tec_magic)
+4. 🗣 Commented on [#12](https://github.com/starlightknown/Tec_magic/issues/12) in [starlightknown/Tec_magic](https://github.com/starlightknown/Tec_magic)
+5. 🎉 Merged PR [#31](https://github.com/starlightknown/Cyberon/pull/31) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
