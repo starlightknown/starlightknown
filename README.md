@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/Branding/issues/15) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#490](https://github.com/EddieHubCommunity/EddieBot/issues/490) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🎉 Merged PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-4. 💪 Opened PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-5. 🎉 Merged PR [#6](https://github.com/kaiwalyakoparkar/Tec_magic/pull/6) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 🎉 Merged PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+2. 💪 Opened PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+3. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/Branding/issues/15) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🗣 Commented on [#490](https://github.com/EddieHubCommunity/EddieBot/issues/490) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🎉 Merged PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
 <!--END_SECTION:activity-->
