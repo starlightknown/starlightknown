@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-2. 💪 Opened PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-3. 🎉 Merged PR [#44](https://github.com/kaiwalyakoparkar/Tec_magic/pull/44) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-4. 🎉 Merged PR [#42](https://github.com/kaiwalyakoparkar/Tec_magic/pull/42) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-5. 💪 Opened PR [#42](https://github.com/kaiwalyakoparkar/Tec_magic/pull/42) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 🎉 Merged PR [#49](https://github.com/kaiwalyakoparkar/Tec_magic/pull/49) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+2. 💪 Opened PR [#49](https://github.com/kaiwalyakoparkar/Tec_magic/pull/49) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+3. 🎉 Merged PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+4. 💪 Opened PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+5. 🎉 Merged PR [#44](https://github.com/kaiwalyakoparkar/Tec_magic/pull/44) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
 <!--END_SECTION:activity-->
