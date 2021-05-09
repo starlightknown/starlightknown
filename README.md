@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
-2. 💪 Opened PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
-3. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/Branding/issues/15) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🗣 Commented on [#490](https://github.com/EddieHubCommunity/EddieBot/issues/490) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#7](https://github.com/kaiwalyakoparkar/Tec_magic/pull/7) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 💪 Opened PR [#19](https://github.com/kaiwalyakoparkar/Tec_magic/pull/19) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+2. 🎉 Merged PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+3. 💪 Opened PR [#16](https://github.com/starlightknown/SpellBind/pull/16) in [starlightknown/SpellBind](https://github.com/starlightknown/SpellBind)
+4. 🗣 Commented on [#15](https://github.com/EddieHubCommunity/Branding/issues/15) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🗣 Commented on [#490](https://github.com/EddieHubCommunity/EddieBot/issues/490) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
