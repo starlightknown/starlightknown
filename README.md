@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/kaiwalyakoparkar/Tec_magic/pull/49) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-2. 💪 Opened PR [#49](https://github.com/kaiwalyakoparkar/Tec_magic/pull/49) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-3. 🎉 Merged PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-4. 💪 Opened PR [#45](https://github.com/kaiwalyakoparkar/Tec_magic/pull/45) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-5. 🎉 Merged PR [#44](https://github.com/kaiwalyakoparkar/Tec_magic/pull/44) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 🎉 Merged PR [#53](https://github.com/kaiwalyakoparkar/spell-bind/pull/53) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+2. 💪 Opened PR [#53](https://github.com/kaiwalyakoparkar/spell-bind/pull/53) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+3. ❗️ Closed issue [#35](https://github.com/kaiwalyakoparkar/spell-bind/issues/35) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+4. 🗣 Commented on [#35](https://github.com/kaiwalyakoparkar/spell-bind/issues/35) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+5. 🎉 Merged PR [#52](https://github.com/kaiwalyakoparkar/spell-bind/pull/52) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
 <!--END_SECTION:activity-->
