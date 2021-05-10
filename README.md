@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
+2. ❗️ Opened issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
 3. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 💪 Opened PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#338](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/338) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
