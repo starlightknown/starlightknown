@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#512](https://github.com/EddieHubCommunity/EddieBot/issues/512) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Closed issue [#54](https://github.com/kaiwalyakoparkar/spell-bind/issues/54) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-3. 🎉 Merged PR [#55](https://github.com/kaiwalyakoparkar/spell-bind/pull/55) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-4. 🗣 Commented on [#55](https://github.com/kaiwalyakoparkar/spell-bind/issues/55) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-5. 🗣 Commented on [#17](https://github.com/starlightknown/starlightknown.github.io/issues/17) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+1. 🗣 Commented on [#1264](https://github.com/EddieHubCommunity/support/issues/1264) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#512](https://github.com/EddieHubCommunity/EddieBot/issues/512) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Closed issue [#54](https://github.com/kaiwalyakoparkar/spell-bind/issues/54) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+4. 🎉 Merged PR [#55](https://github.com/kaiwalyakoparkar/spell-bind/pull/55) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+5. 🗣 Commented on [#55](https://github.com/kaiwalyakoparkar/spell-bind/issues/55) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
 <!--END_SECTION:activity-->
