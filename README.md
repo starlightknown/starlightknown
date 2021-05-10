@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/EddieHubCommunity/EddieBot/issues/497) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#497](https://github.com/EddieHubCommunity/EddieBot/issues/497) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🎉 Merged PR [#53](https://github.com/kaiwalyakoparkar/spell-bind/pull/53) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-4. 💪 Opened PR [#53](https://github.com/kaiwalyakoparkar/spell-bind/pull/53) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-5. ❗️ Closed issue [#35](https://github.com/kaiwalyakoparkar/spell-bind/issues/35) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+1. 🎉 Merged PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+2. 💪 Opened PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+3. 🎉 Merged PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+4. 💪 Opened PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+5. 🗣 Commented on [#497](https://github.com/EddieHubCommunity/EddieBot/issues/497) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
