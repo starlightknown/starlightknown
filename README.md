@@ -142,7 +142,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 2. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#338](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/338) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#1264](https://github.com/EddieHubCommunity/support/issues/1264) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 💪 Opened PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#338](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/338) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
