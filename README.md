@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-2. 💪 Opened PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-3. 🎉 Merged PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-4. 💪 Opened PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-5. 🗣 Commented on [#497](https://github.com/EddieHubCommunity/EddieBot/issues/497) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🗣 Commented on [#17](https://github.com/starlightknown/starlightknown.github.io/issues/17) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+2. 🎉 Merged PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+3. 💪 Opened PR [#2](https://github.com/starlightknown/Daily_Learns/pull/2) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+4. 🎉 Merged PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+5. 💪 Opened PR [#1](https://github.com/starlightknown/Daily_Learns/pull/1) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
 <!--END_SECTION:activity-->
