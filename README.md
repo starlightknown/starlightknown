@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1595](https://github.com/EddieHubCommunity/support/issues/1595) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
-3. ❗️ Opened issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
-4. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1595](https://github.com/EddieHubCommunity/support/issues/1595) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
+4. ❗️ Opened issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
 5. 🗣 Commented on [#1581](https://github.com/EddieHubCommunity/support/issues/1581) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
