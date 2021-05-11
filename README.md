@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
-2. 🗣 Commented on [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
-3. 🗣 Commented on [#1615](https://github.com/EddieHubCommunity/support/issues/1615) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#32](https://github.com/starlightknown/Cyberon/pull/32) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 💪 Opened PR [#32](https://github.com/starlightknown/Cyberon/pull/32) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. ❌ Closed PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Closed issue [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
+3. 🗣 Commented on [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
+4. 🗣 Commented on [#1615](https://github.com/EddieHubCommunity/support/issues/1615) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#32](https://github.com/starlightknown/Cyberon/pull/32) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
