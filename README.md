@@ -141,8 +141,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1586](https://github.com/EddieHubCommunity/support/issues/1586) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1595](https://github.com/EddieHubCommunity/support/issues/1595) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Closed issue [#7](https://github.com/hellosagar/AssigmentHub/issues/7) in [hellosagar/AssigmentHub](https://github.com/hellosagar/AssigmentHub)
+2. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1586](https://github.com/EddieHubCommunity/support/issues/1586) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1595](https://github.com/EddieHubCommunity/support/issues/1595) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
