@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1586](https://github.com/EddieHubCommunity/support/issues/1586) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1595](https://github.com/EddieHubCommunity/support/issues/1595) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#491](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/491) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#491](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/491) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
