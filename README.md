@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/4) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
-2. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#491](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/491) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#491](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/491) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#32](https://github.com/starlightknown/Cyberon/pull/32) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 💪 Opened PR [#32](https://github.com/starlightknown/Cyberon/pull/32) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. ❗️ Opened issue [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
+4. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/4) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
+5. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
