@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-2. ❌ Closed PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
-4. 🗣 Commented on [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
-5. 🗣 Commented on [#1615](https://github.com/EddieHubCommunity/support/issues/1615) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+2. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+3. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+4. ❌ Closed PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Closed issue [#7](https://github.com/pranavbaburaj/polyglot/issues/7) in [pranavbaburaj/polyglot](https://github.com/pranavbaburaj/polyglot)
 <!--END_SECTION:activity-->
