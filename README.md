@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-2. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+1. 💪 Opened PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
 3. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-4. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-5. ❌ Closed PR [#1580](https://github.com/EddieHubCommunity/support/pull/1580) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+5. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
 <!--END_SECTION:activity-->
