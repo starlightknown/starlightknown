@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-2. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-3. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-4. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-5. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+1. 💪 Opened PR [#488](https://github.com/education/GitHubGraduation-2021/pull/488) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. ❌ Closed PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+3. 💪 Opened PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+4. 🗣 Commented on [#3](https://github.com/nhcommunity/homepage/issues/3) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+5. 🗣 Commented on [#6](https://github.com/nhcommunity/homepage/issues/6) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
 <!--END_SECTION:activity-->
