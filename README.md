@@ -140,9 +140,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#488](https://github.com/education/GitHubGraduation-2021/pull/488) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. ❌ Closed PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#446](https://github.com/education/GitHubGraduation-2021/pull/446) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 🎉 Merged PR [#3](https://github.com/starlightknown/Daily_Learns/pull/3) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+2. 💪 Opened PR [#3](https://github.com/starlightknown/Daily_Learns/pull/3) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+3. 💪 Opened PR [#9](https://github.com/nhcommunity/homepage/pull/9) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+4. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#492](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/492) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
