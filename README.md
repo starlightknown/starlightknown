@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-2. ❗️ Closed issue [#13](https://github.com/starlightknown/starlightknown/issues/13) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-3. 💪 Opened PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 🗣 Commented on [#13](https://github.com/starlightknown/starlightknown/issues/13) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. 🎉 Merged PR [#3](https://github.com/starlightknown/Daily_Learns/pull/3) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+1. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+2. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+3. 🎉 Merged PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. ❗️ Closed issue [#13](https://github.com/starlightknown/starlightknown/issues/13) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 💪 Opened PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
