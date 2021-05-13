@@ -7,15 +7,18 @@
 	</p>
 							 
 ## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="30px" src="https://icongr.am/material/microsoft-visual-studio-code.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://icongr.am/devicon/html5-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://icongr.am/devicon/javascript-original.svg" />
-<img align="left" alt="Git" width="30px" src="https://icongr.am/devicon/git-original-wordmark.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://icongr.am/devicon/github-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" src="https://icongr.am/devicon/python-original.svg" />
-<img align="left" alt="Linux" width="30px" src="https://icongr.am/devicon/ubuntu-plain-wordmark.svg" />
-<img align="left" alt="Heroku" width="30px" src="https://icongr.am/devicon/heroku-original-wordmark.svg" />
-
+<p align="center">
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/anaconda-42B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+</p>
 <br />
 <br />
 
