@@ -143,7 +143,7 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+1. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 2. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
 3. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
 4. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
