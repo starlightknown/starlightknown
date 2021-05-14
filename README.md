@@ -144,8 +144,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#1668](https://github.com/EddieHubCommunity/support/pull/1668) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#1668](https://github.com/EddieHubCommunity/support/pull/1668) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
