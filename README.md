@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/space-lang/space/issues/5) in [space-lang/space](https://github.com/space-lang/space)
-2. ❗️ Opened issue [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#10](https://github.com/vivekascoder/libman-vue/issues/10) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+2. ❗️ Closed issue [#5](https://github.com/vivekascoder/libman-vue/issues/5) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+3. ❗️ Opened issue [#5](https://github.com/vivekascoder/libman-vue/issues/5) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+4. 💪 Opened PR [#22](https://github.com/Agrover112/awesome-semantic-search/pull/22) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+5. ❗️ Opened issue [#5](https://github.com/space-lang/space/issues/5) in [space-lang/space](https://github.com/space-lang/space)
 <!--END_SECTION:activity-->
