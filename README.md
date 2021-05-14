@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/starlightknown/cautious-spoon/pull/1) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-2. 💪 Opened PR [#1](https://github.com/starlightknown/cautious-spoon/pull/1) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-3. 🗣 Commented on [#488](https://github.com/education/GitHubGraduation-2021/issues/488) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-4. 🗣 Commented on [#16](https://github.com/eddiejaoude/stargate/issues/16) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-5. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+1. 🗣 Commented on [#416](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/416) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🎉 Merged PR [#1](https://github.com/starlightknown/cautious-spoon/pull/1) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+4. 💪 Opened PR [#1](https://github.com/starlightknown/cautious-spoon/pull/1) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+5. 🗣 Commented on [#488](https://github.com/education/GitHubGraduation-2021/issues/488) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
