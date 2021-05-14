@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/ishitakeshawani/Give-More/pull/14) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-2. ❗️ Closed issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-3. ❗️ Opened issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-4. ❗️ Opened issue [#7](https://github.com/ishitakeshawani/Give-More/issues/7) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
-5. ❗️ Opened issue [#6](https://github.com/ishitakeshawani/Give-More/issues/6) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+1. 🎉 Merged PR [#4](https://github.com/starlightknown/cautious-spoon/pull/4) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+2. 💪 Opened PR [#14](https://github.com/ishitakeshawani/Give-More/pull/14) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+3. ❗️ Closed issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+4. ❗️ Opened issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+5. ❗️ Opened issue [#7](https://github.com/ishitakeshawani/Give-More/issues/7) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
 <!--END_SECTION:activity-->
