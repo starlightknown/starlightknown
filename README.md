@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/eddiejaoude/stargate/issues/16) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
-2. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+1. 🗣 Commented on [#488](https://github.com/education/GitHubGraduation-2021/issues/488) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+2. 🗣 Commented on [#16](https://github.com/eddiejaoude/stargate/issues/16) in [eddiejaoude/stargate](https://github.com/eddiejaoude/stargate)
 3. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
-4. 🎉 Merged PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. ❗️ Closed issue [#13](https://github.com/starlightknown/starlightknown/issues/13) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🗣 Commented on [#8](https://github.com/nhcommunity/homepage/issues/8) in [nhcommunity/homepage](https://github.com/nhcommunity/homepage)
+5. 🎉 Merged PR [#14](https://github.com/starlightknown/starlightknown/pull/14) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
