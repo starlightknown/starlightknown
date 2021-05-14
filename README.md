@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-3. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-4. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-5. 🗣 Commented on [#2](https://github.com/starlightknown/cautious-spoon/issues/2) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+1. 💪 Opened PR [#1668](https://github.com/EddieHubCommunity/support/pull/1668) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1667](https://github.com/EddieHubCommunity/support/issues/1667) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#506](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/506) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🎉 Merged PR [#3](https://github.com/starlightknown/cautious-spoon/pull/3) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+5. 💪 Opened PR [#3](https://github.com/starlightknown/cautious-spoon/pull/3) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
 <!--END_SECTION:activity-->
