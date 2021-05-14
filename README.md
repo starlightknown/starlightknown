@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/vivekascoder/libman-vue/issues/10) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-2. ❗️ Closed issue [#5](https://github.com/vivekascoder/libman-vue/issues/5) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-3. ❗️ Opened issue [#5](https://github.com/vivekascoder/libman-vue/issues/5) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-4. 💪 Opened PR [#22](https://github.com/Agrover112/awesome-semantic-search/pull/22) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-5. ❗️ Opened issue [#5](https://github.com/space-lang/space/issues/5) in [space-lang/space](https://github.com/space-lang/space)
+1. 💪 Opened PR [#14](https://github.com/ishitakeshawani/Give-More/pull/14) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+2. ❗️ Closed issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+3. ❗️ Opened issue [#11](https://github.com/ishitakeshawani/Give-More/issues/11) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+4. ❗️ Opened issue [#7](https://github.com/ishitakeshawani/Give-More/issues/7) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+5. ❗️ Opened issue [#6](https://github.com/ishitakeshawani/Give-More/issues/6) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
 <!--END_SECTION:activity-->
