@@ -143,9 +143,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/339) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#6](https://github.com/starlightknown/cautious-spoon/pull/6) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-4. 🎉 Merged PR [#39](https://github.com/starlightknown/Cyberon/pull/39) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 💪 Opened PR [#39](https://github.com/starlightknown/Cyberon/pull/39) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🗣 Commented on [#11](https://github.com/starlightknown/cautious-spoon/issues/11) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+2. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/339) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🎉 Merged PR [#6](https://github.com/starlightknown/cautious-spoon/pull/6) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+5. 🎉 Merged PR [#39](https://github.com/starlightknown/Cyberon/pull/39) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
