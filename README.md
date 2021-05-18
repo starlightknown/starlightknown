@@ -146,6 +146,6 @@
 1. 🗣 Commented on [#11](https://github.com/starlightknown/cautious-spoon/issues/11) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
 2. 🗣 Commented on [#11](https://github.com/starlightknown/cautious-spoon/issues/11) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
 3. 🗣 Commented on [#11](https://github.com/starlightknown/cautious-spoon/issues/11) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-4. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#339](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/339) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#11](https://github.com/starlightknown/cautious-spoon/issues/11) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+5. 🗣 Commented on [#1582](https://github.com/EddieHubCommunity/support/issues/1582) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
