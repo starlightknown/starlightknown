@@ -145,7 +145,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 2. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/issues/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
-4. 💪 Opened PR [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/pull/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
-5. 🗣 Commented on [#520](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/520) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+4. 🗣 Commented on [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/issues/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
+5. 💪 Opened PR [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/pull/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
 <!--END_SECTION:activity-->
