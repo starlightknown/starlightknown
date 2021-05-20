@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🎉 Merged PR [#15](https://github.com/starlightknown/starlightknown/pull/15) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+2. 💪 Opened PR [#15](https://github.com/starlightknown/starlightknown/pull/15) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 3. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/issues/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
-5. 💪 Opened PR [#1](https://github.com/Ayushparikh-code/awesome-github-profiles/pull/1) in [Ayushparikh-code/awesome-github-profiles](https://github.com/Ayushparikh-code/awesome-github-profiles)
+4. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#521](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/521) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
