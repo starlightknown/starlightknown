@@ -65,9 +65,10 @@
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://discord.gg/RZAwxWv62A">
-              <img width="30%"src="https://raw.githubusercontent.com/starlightknown/starlightknown/main/2363208-app-chat-discord-game-gamer-social_85471.png" />
-            </a>
+            <a href="https://dev.to/starlightknown">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karuna Tata's DEV Community Profile" width="30%">
+</a>
+      
 </p>
           </td>  
 	</tr>
