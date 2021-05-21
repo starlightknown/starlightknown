@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4082](https://github.com/pallets/flask/issues/4082) in [pallets/flask](https://github.com/pallets/flask)
-2. 🗣 Commented on [#342](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/342) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#13](https://github.com/starlightknown/cautious-spoon/pull/13) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-4. 🎉 Merged PR [#12](https://github.com/starlightknown/cautious-spoon/pull/12) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
-5. 💪 Opened PR [#12](https://github.com/starlightknown/cautious-spoon/pull/12) in [starlightknown/cautious-spoon](https://github.com/starlightknown/cautious-spoon)
+1. ❗️ Opened issue [#12](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/12) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
+2. 💪 Opened PR [#11](https://github.com/Agrover112/Graduate_Admissions_Prediction/pull/11) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
+3. ❗️ Opened issue [#9](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/9) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
+4. ❗️ Opened issue [#7](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/7) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
+5. ❗️ Opened issue [#5](https://github.com/cmulay/cmulay-v1/issues/5) in [cmulay/cmulay-v1](https://github.com/cmulay/cmulay-v1)
 <!--END_SECTION:activity-->
