@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/12) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
-2. 💪 Opened PR [#11](https://github.com/Agrover112/Graduate_Admissions_Prediction/pull/11) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
-3. ❗️ Opened issue [#9](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/9) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
-4. ❗️ Opened issue [#7](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/7) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
-5. ❗️ Opened issue [#5](https://github.com/cmulay/cmulay-v1/issues/5) in [cmulay/cmulay-v1](https://github.com/cmulay/cmulay-v1)
+1. ❗️ Closed issue [#370](https://github.com/Jayshah6699/datascience-mashup/issues/370) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
+2. ❗️ Opened issue [#370](https://github.com/Jayshah6699/datascience-mashup/issues/370) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
+3. ❗️ Opened issue [#25](https://github.com/Creatoon/Jar-web-app/issues/25) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+4. ❗️ Opened issue [#23](https://github.com/Creatoon/Jar-web-app/issues/23) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+5. ❗️ Opened issue [#12](https://github.com/Agrover112/Graduate_Admissions_Prediction/issues/12) in [Agrover112/Graduate_Admissions_Prediction](https://github.com/Agrover112/Graduate_Admissions_Prediction)
 <!--END_SECTION:activity-->
