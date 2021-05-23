@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#343](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/343) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#1661](https://github.com/EddieHubCommunity/support/issues/1661) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. ❗️ Closed issue [#370](https://github.com/Jayshah6699/datascience-mashup/issues/370) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
-4. ❗️ Opened issue [#370](https://github.com/Jayshah6699/datascience-mashup/issues/370) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
-5. ❗️ Opened issue [#25](https://github.com/Creatoon/Jar-web-app/issues/25) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+1. 🎉 Merged PR [#52](https://github.com/starlightknown/Cyberon/pull/52) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 💪 Opened PR [#52](https://github.com/starlightknown/Cyberon/pull/52) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 🗣 Commented on [#8](https://github.com/starlightknown/Cyberon/issues/8) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. ❗️ Closed issue [#8](https://github.com/starlightknown/Cyberon/issues/8) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 🎉 Merged PR [#51](https://github.com/starlightknown/Cyberon/pull/51) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
