@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-2. 💪 Opened PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-3. 🗣 Commented on [#344](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/344) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#328](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/328) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#344](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/344) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. 🎉 Merged PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+3. 💪 Opened PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
+4. 🗣 Commented on [#344](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/344) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
