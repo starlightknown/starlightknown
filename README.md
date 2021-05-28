@@ -144,9 +144,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/starlightknown/OpenX/pull/20) in [starlightknown/OpenX](https://github.com/starlightknown/OpenX)
-2. 🗣 Commented on [#344](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/344) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🎉 Merged PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-4. 💪 Opened PR [#4](https://github.com/starlightknown/Daily_Learns/pull/4) in [starlightknown/Daily_Learns](https://github.com/starlightknown/Daily_Learns)
-5. 🗣 Commented on [#344](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/344) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#7](https://github.com/starlightknown/AIry_pages/pull/7) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+2. 💪 Opened PR [#7](https://github.com/starlightknown/AIry_pages/pull/7) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+3. 🎉 Merged PR [#6](https://github.com/starlightknown/AIry_pages/pull/6) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+4. 💪 Opened PR [#6](https://github.com/starlightknown/AIry_pages/pull/6) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+5. 🎉 Merged PR [#5](https://github.com/starlightknown/AIry_pages/pull/5) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
 <!--END_SECTION:activity-->
