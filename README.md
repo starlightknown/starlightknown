@@ -84,6 +84,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- YOUTUBE:START -->
+- [Airy pages - demo | built with Google assistant actions and interactive canvas](https://www.youtube.com/watch?v=pSMLpuBr-sQ)
 - [Workshop on "The World of Open Source" (No Prerequisites Needed)](https://www.youtube.com/watch?v=UG3HHy-HKiE)
 - [IoT Simplified - How does it work?](https://www.youtube.com/watch?v=vng5RJolByA)
 <!-- YOUTUBE:END -->
