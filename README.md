@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/352) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🎉 Merged PR [#16](https://github.com/starlightknown/AIry_pages/pull/16) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-3. 🎉 Merged PR [#14](https://github.com/starlightknown/AIry_pages/pull/14) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-4. 🎉 Merged PR [#13](https://github.com/starlightknown/AIry_pages/pull/13) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-5. 💪 Opened PR [#13](https://github.com/starlightknown/AIry_pages/pull/13) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+1. ❗️ Reopened issue [#54](https://github.com/starlightknown/Cyberon/issues/54) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. ❗️ Closed issue [#54](https://github.com/starlightknown/Cyberon/issues/54) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 🗣 Commented on [#54](https://github.com/starlightknown/Cyberon/issues/54) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🗣 Commented on [#352](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/352) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🎉 Merged PR [#16](https://github.com/starlightknown/AIry_pages/pull/16) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
 <!--END_SECTION:activity-->
