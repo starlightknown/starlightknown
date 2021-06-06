@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#187](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/187) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-2. 🗣 Commented on [#186](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/186) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-3. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
+1. 🗣 Commented on [#357](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/357) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#187](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/187) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+3. 🗣 Commented on [#186](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/186) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
 4. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
-5. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
 <!--END_SECTION:activity-->
