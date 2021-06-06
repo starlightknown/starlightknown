@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 💪 Opened PR [#4131](https://github.com/pallets/flask/pull/4131) in [pallets/flask](https://github.com/pallets/flask)
-3. ❌ Closed PR [#4130](https://github.com/pallets/flask/pull/4130) in [pallets/flask](https://github.com/pallets/flask)
-4. ❌ Reopened PR [#4130](https://github.com/pallets/flask/pull/4130) in [pallets/flask](https://github.com/pallets/flask)
+1. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
+2. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
+3. 🗣 Commented on [#269](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/269) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 💪 Opened PR [#4131](https://github.com/pallets/flask/pull/4131) in [pallets/flask](https://github.com/pallets/flask)
 5. ❌ Closed PR [#4130](https://github.com/pallets/flask/pull/4130) in [pallets/flask](https://github.com/pallets/flask)
 <!--END_SECTION:activity-->
