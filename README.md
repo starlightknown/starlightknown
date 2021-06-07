@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
-2. 🗣 Commented on [#359](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/359) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. 🗣 Commented on [#357](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/357) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. ❗️ Opened issue [#187](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/187) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
-5. 🗣 Commented on [#186](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/186) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 💪 Opened PR [#25](https://github.com/EddieHubCommunity/Branding/pull/25) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 💪 Opened PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
+3. 🗣 Commented on [#4131](https://github.com/pallets/flask/issues/4131) in [pallets/flask](https://github.com/pallets/flask)
+4. 🗣 Commented on [#359](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/359) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. 🗣 Commented on [#357](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/357) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
