@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1806](https://github.com/EddieHubCommunity/support/issues/1806) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
-3. 💪 Opened PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
-4. 🗣 Commented on [#13](https://github.com/starlightknown/brokers_ofspace/issues/13) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-5. 🎉 Merged PR [#13](https://github.com/starlightknown/brokers_ofspace/pull/13) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+1. ❗️ Closed issue [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+2. ❌ Closed PR [#10](https://github.com/starlightknown/brokers_ofspace/pull/10) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+3. 🗣 Commented on [#1806](https://github.com/EddieHubCommunity/support/issues/1806) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
+5. 💪 Opened PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
 <!--END_SECTION:activity-->
