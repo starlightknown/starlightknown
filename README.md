@@ -145,9 +145,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-2. ❌ Closed PR [#10](https://github.com/starlightknown/brokers_ofspace/pull/10) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
-3. 🗣 Commented on [#1806](https://github.com/EddieHubCommunity/support/issues/1806) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
-5. 💪 Opened PR [#1](https://github.com/starlightknown/To-Doodle/pull/1) in [starlightknown/To-Doodle](https://github.com/starlightknown/To-Doodle)
+1. 🎉 Merged PR [#73](https://github.com/starlightknown/Cyberon/pull/73) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 💪 Opened PR [#73](https://github.com/starlightknown/Cyberon/pull/73) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. ❗️ Closed issue [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+4. ❌ Closed PR [#10](https://github.com/starlightknown/brokers_ofspace/pull/10) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+5. 🗣 Commented on [#1806](https://github.com/EddieHubCommunity/support/issues/1806) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
