@@ -146,8 +146,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/EquiCode/EquiCode/issues/1) in [EquiCode/EquiCode](https://github.com/EquiCode/EquiCode)
-2. ❗️ Opened issue [#1](https://github.com/EquiCode/EquiCode/issues/1) in [EquiCode/EquiCode](https://github.com/EquiCode/EquiCode)
-3. 🎉 Merged PR [#73](https://github.com/starlightknown/Cyberon/pull/73) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 💪 Opened PR [#73](https://github.com/starlightknown/Cyberon/pull/73) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. ❗️ Closed issue [#7](https://github.com/starlightknown/brokers_ofspace/issues/7) in [starlightknown/brokers_ofspace](https://github.com/starlightknown/brokers_ofspace)
+2. 🗣 Commented on [#1](https://github.com/EquiCode/EquiCode/issues/1) in [EquiCode/EquiCode](https://github.com/EquiCode/EquiCode)
+3. 🗣 Commented on [#1](https://github.com/EquiCode/EquiCode/issues/1) in [EquiCode/EquiCode](https://github.com/EquiCode/EquiCode)
+4. ❗️ Opened issue [#1](https://github.com/EquiCode/EquiCode/issues/1) in [EquiCode/EquiCode](https://github.com/EquiCode/EquiCode)
+5. 🎉 Merged PR [#73](https://github.com/starlightknown/Cyberon/pull/73) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
