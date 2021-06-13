@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/EquiCode/Community-Support/pull/7) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
-2. ❗️ Closed issue [#3](https://github.com/EquiCode/Community-Support/issues/3) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
-3. 💪 Opened PR [#7](https://github.com/EquiCode/Community-Support/pull/7) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
-4. ❗️ Closed issue [#2](https://github.com/EquiCode/Community-Support/issues/2) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
-5. 🗣 Commented on [#2](https://github.com/EquiCode/Community-Support/issues/2) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
+1. 🗣 Commented on [#1839](https://github.com/EddieHubCommunity/support/issues/1839) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#7](https://github.com/EquiCode/Community-Support/pull/7) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
+3. ❗️ Closed issue [#3](https://github.com/EquiCode/Community-Support/issues/3) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
+4. 💪 Opened PR [#7](https://github.com/EquiCode/Community-Support/pull/7) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
+5. ❗️ Closed issue [#2](https://github.com/EquiCode/Community-Support/issues/2) in [EquiCode/Community-Support](https://github.com/EquiCode/Community-Support)
 <!--END_SECTION:activity-->
