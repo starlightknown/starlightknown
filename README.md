@@ -149,6 +149,6 @@
 1. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 2. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 3. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 💪 Opened PR [#560](https://github.com/EddieHubCommunity/EddieBot/pull/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. ❗️ Opened issue [#559](https://github.com/EddieHubCommunity/EddieBot/issues/559) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
