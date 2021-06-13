@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 💪 Opened PR [#560](https://github.com/EddieHubCommunity/EddieBot/pull/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Opened issue [#559](https://github.com/EddieHubCommunity/EddieBot/issues/559) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🎉 Merged PR [#1](https://github.com/SurfsUpHacks21/No_gARbage/pull/1) in [SurfsUpHacks21/No_gARbage](https://github.com/SurfsUpHacks21/No_gARbage)
-5. 💪 Opened PR [#1](https://github.com/SurfsUpHacks21/No_gARbage/pull/1) in [SurfsUpHacks21/No_gARbage](https://github.com/SurfsUpHacks21/No_gARbage)
+2. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 💪 Opened PR [#560](https://github.com/EddieHubCommunity/EddieBot/pull/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#559](https://github.com/EddieHubCommunity/EddieBot/issues/559) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
