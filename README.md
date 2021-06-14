@@ -146,7 +146,7 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🗣 Commented on [#555](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/555) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 2. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 3. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 4. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
