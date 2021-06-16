@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. ❗️ Opened issue [#74](https://github.com/starlightknown/Cyberon/issues/74) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-3. 🗣 Commented on [#555](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/555) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🗣 Commented on [#188](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/188) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. ❗️ Opened issue [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#74](https://github.com/starlightknown/Cyberon/issues/74) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. 🗣 Commented on [#555](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/555) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 5. 🗣 Commented on [#560](https://github.com/EddieHubCommunity/EddieBot/issues/560) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
