@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#62](https://github.com/starlightknown/Cyberon/issues/62) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-2. 🎉 Merged PR [#78](https://github.com/starlightknown/Cyberon/pull/78) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-3. ❗️ Closed issue [#54](https://github.com/starlightknown/Cyberon/issues/54) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 💪 Opened PR [#78](https://github.com/starlightknown/Cyberon/pull/78) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 🗣 Commented on [#188](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/188) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. ❗️ Opened issue [#91](https://github.com/eddiejaoude/eddiejaoude/issues/91) in [eddiejaoude/eddiejaoude](https://github.com/eddiejaoude/eddiejaoude)
+2. ❗️ Closed issue [#62](https://github.com/starlightknown/Cyberon/issues/62) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 🎉 Merged PR [#78](https://github.com/starlightknown/Cyberon/pull/78) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+4. ❗️ Closed issue [#54](https://github.com/starlightknown/Cyberon/issues/54) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 💪 Opened PR [#78](https://github.com/starlightknown/Cyberon/pull/78) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
