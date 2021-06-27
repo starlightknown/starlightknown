@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#87](https://github.com/starlightknown/Cyberon/pull/87) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 💪 Opened PR [#87](https://github.com/starlightknown/Cyberon/pull/87) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🎉 Merged PR [#19](https://github.com/starlightknown/starlightknown.github.io/pull/19) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+2. ❗️ Closed issue [#13](https://github.com/starlightknown/starlightknown.github.io/issues/13) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+3. 💪 Opened PR [#19](https://github.com/starlightknown/starlightknown.github.io/pull/19) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+4. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1454](https://github.com/EddieHubCommunity/support/issues/1454) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
