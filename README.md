@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#558](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/558) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Closed issue [#15](https://github.com/starlightknown/starlightknown.github.io/issues/15) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-3. 🗣 Commented on [#15](https://github.com/starlightknown/starlightknown.github.io/issues/15) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-4. 🎉 Merged PR [#22](https://github.com/starlightknown/starlightknown.github.io/pull/22) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-5. ❗️ Closed issue [#21](https://github.com/starlightknown/starlightknown.github.io/issues/21) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+1. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1884](https://github.com/EddieHubCommunity/support/issues/1884) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1897](https://github.com/EddieHubCommunity/support/issues/1897) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1914](https://github.com/EddieHubCommunity/support/issues/1914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
