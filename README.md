@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1809](https://github.com/EddieHubCommunity/support/issues/1809) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#1884](https://github.com/EddieHubCommunity/support/issues/1884) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#1897](https://github.com/EddieHubCommunity/support/issues/1897) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#89](https://github.com/starlightknown/Cyberon/pull/89) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 💪 Opened PR [#89](https://github.com/starlightknown/Cyberon/pull/89) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+3. 🗣 Commented on [#1809](https://github.com/EddieHubCommunity/support/issues/1809) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1864](https://github.com/EddieHubCommunity/support/issues/1864) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
