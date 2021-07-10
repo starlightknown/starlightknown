@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#582](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/582) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❗️ Opened issue [#2](https://github.com/starlightknown/expert-lamp/issues/2) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
-3. 🎉 Merged PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
-4. 💪 Opened PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
-5. 🗣 Commented on [#75](https://github.com/starlightknown/Cyberon/issues/75) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. 🎉 Merged PR [#1](https://github.com/rajivranjanmars/Anime-Map/pull/1) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+2. 🗣 Commented on [#582](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/582) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#2](https://github.com/starlightknown/expert-lamp/issues/2) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
+4. 🎉 Merged PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
+5. 💪 Opened PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
 <!--END_SECTION:activity-->
