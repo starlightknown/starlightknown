@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
-2. 💪 Opened PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
-3. 🗣 Commented on [#75](https://github.com/starlightknown/Cyberon/issues/75) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 🎉 Merged PR [#101](https://github.com/starlightknown/Cyberon/pull/101) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-5. 🗣 Commented on [#101](https://github.com/starlightknown/Cyberon/issues/101) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+1. ❗️ Opened issue [#2](https://github.com/starlightknown/expert-lamp/issues/2) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
+2. 🎉 Merged PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
+3. 💪 Opened PR [#1](https://github.com/starlightknown/expert-lamp/pull/1) in [starlightknown/expert-lamp](https://github.com/starlightknown/expert-lamp)
+4. 🗣 Commented on [#75](https://github.com/starlightknown/Cyberon/issues/75) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 🎉 Merged PR [#101](https://github.com/starlightknown/Cyberon/pull/101) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
 <!--END_SECTION:activity-->
