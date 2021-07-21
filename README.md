@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/rajivranjanmars/Anime-Map/pull/3) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
-2. 💪 Opened PR [#3](https://github.com/rajivranjanmars/Anime-Map/pull/3) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
-3. 🎉 Merged PR [#102](https://github.com/starlightknown/Cyberon/pull/102) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
-4. 🎉 Merged PR [#2](https://github.com/rajivranjanmars/Anime-Map/pull/2) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
-5. 🎉 Merged PR [#1](https://github.com/rajivranjanmars/Anime-Map/pull/1) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+1. ❗️ Opened issue [#104](https://github.com/starlightknown/Cyberon/issues/104) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+2. 🎉 Merged PR [#3](https://github.com/rajivranjanmars/Anime-Map/pull/3) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+3. 💪 Opened PR [#3](https://github.com/rajivranjanmars/Anime-Map/pull/3) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+4. 🎉 Merged PR [#102](https://github.com/starlightknown/Cyberon/pull/102) in [starlightknown/Cyberon](https://github.com/starlightknown/Cyberon)
+5. 🎉 Merged PR [#2](https://github.com/rajivranjanmars/Anime-Map/pull/2) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
 <!--END_SECTION:activity-->
