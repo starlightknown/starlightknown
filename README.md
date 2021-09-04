@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2163](https://github.com/EddieHubCommunity/support/issues/2163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2192](https://github.com/EddieHubCommunity/support/issues/2192) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🎉 Merged PR [#1](https://github.com/starlightknown/learning-guide/pull/1) in [starlightknown/learning-guide](https://github.com/starlightknown/learning-guide)
-4. 💪 Opened PR [#1](https://github.com/starlightknown/learning-guide/pull/1) in [starlightknown/learning-guide](https://github.com/starlightknown/learning-guide)
-5. 🎉 Merged PR [#23](https://github.com/starlightknown/starlightknown.github.io/pull/23) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+1. 🎉 Merged PR [#1](https://github.com/starlightknown/t-hack/pull/1) in [starlightknown/t-hack](https://github.com/starlightknown/t-hack)
+2. 💪 Opened PR [#1](https://github.com/starlightknown/t-hack/pull/1) in [starlightknown/t-hack](https://github.com/starlightknown/t-hack)
+3. 🗣 Commented on [#2163](https://github.com/EddieHubCommunity/support/issues/2163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#2192](https://github.com/EddieHubCommunity/support/issues/2192) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🎉 Merged PR [#1](https://github.com/starlightknown/learning-guide/pull/1) in [starlightknown/learning-guide](https://github.com/starlightknown/learning-guide)
 <!--END_SECTION:activity-->
