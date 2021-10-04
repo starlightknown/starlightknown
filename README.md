@@ -146,9 +146,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#278](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/278) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-2. 🗣 Commented on [#2163](https://github.com/EddieHubCommunity/support/issues/2163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#2192](https://github.com/EddieHubCommunity/support/issues/2192) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🎉 Merged PR [#1](https://github.com/starlightknown/learning-guide/pull/1) in [starlightknown/learning-guide](https://github.com/starlightknown/learning-guide)
-5. 💪 Opened PR [#1](https://github.com/starlightknown/learning-guide/pull/1) in [starlightknown/learning-guide](https://github.com/starlightknown/learning-guide)
+1. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+2. ❗️ Closed issue [#28](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/28) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+3. 🗣 Commented on [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+4. 💪 Opened PR [#278](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/278) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+5. 🗣 Commented on [#2163](https://github.com/EddieHubCommunity/support/issues/2163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
