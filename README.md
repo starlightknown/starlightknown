@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-2. ❗️ Closed issue [#28](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/28) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-3. 🗣 Commented on [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-4. 💪 Opened PR [#278](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/278) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-5. 🗣 Commented on [#2163](https://github.com/EddieHubCommunity/support/issues/2163) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+2. 🎉 Merged PR [#9](https://github.com/starlightknown/thankful.ly/pull/9) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+3. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+4. ❗️ Closed issue [#28](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/28) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+5. 🗣 Commented on [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
 <!--END_SECTION:activity-->
