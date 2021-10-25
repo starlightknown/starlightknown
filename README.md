@@ -108,25 +108,49 @@
     <tbody>
       <tr>
 	<td><a href="https://github.com/starlightknown/Edbeepbot"><b> Edbeepbot </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Edbeepbot?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Edbeepbot?style=flat-square"/></td>
+        <td><a href="https://github.com/starlightknown/Edbeepbot/stargazers">
+	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/Edbeepbot/network/members">
+        <img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Edbeepbot?style=flat-square&labelColor=343b41"/>
+	</a></td>
+	<td><a href="https://github.com/starlightknown/Edbeepbot/issues">
+	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Edbeepbot?style=flat-square"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/Edbeepbot/pulls">
+	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Edbeepbot?style=flat-square"/>
+	</a></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Edbeepbot?style=flat-square"/></td>
       </tr>
       <tr>
 	<td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers"><b>💻 Super Maxio Checkers</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/></td>
+        <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/stargazers">
+	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/network/members">
+	<img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square&labelColor=343b41"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues">
+	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pulls">
+	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/SuperMaxioCheckers_snakes-hackers?style=flat-square"/>
+	</a></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/SuperMaxioCheckers_snakes-hackers?label=Python&style=flat-square"/></td>
       <tr>
 	<td><a href="https://github.com/starlightknown/Cyberon"><b> Cyberon </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Cyberon?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Cyberon?style=flat-square"/></td>
+        <td><a href="https://github.com/starlightknown/Cyberon/stargazers">
+	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/Cyberon/network/members">
+	<img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/Cyberon/issues">
+	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Cyberon?style=flat-square"/>
+	</a></td>
+        <td><a href="https://github.com/starlightknown/Cyberon/pulls">
+	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Cyberon?style=flat-square"/>
+	</a></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Cyberon?style=flat-square"/></td>
       </tr>
       
