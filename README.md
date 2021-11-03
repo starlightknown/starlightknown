@@ -171,8 +171,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
-2. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-3. 🎉 Merged PR [#9](https://github.com/starlightknown/thankful.ly/pull/9) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
-4. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
-5. ❗️ Closed issue [#28](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/issues/28) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+2. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
+3. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🎉 Merged PR [#9](https://github.com/starlightknown/thankful.ly/pull/9) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+5. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
 <!--END_SECTION:activity-->
