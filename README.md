@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
-2. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
-3. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 🎉 Merged PR [#9](https://github.com/starlightknown/thankful.ly/pull/9) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
-5. 🎉 Merged PR [#29](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers/pull/29) in [starlightknown/SuperMaxioCheckers_snakes-hackers](https://github.com/starlightknown/SuperMaxioCheckers_snakes-hackers)
+1. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
+4. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
+5. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
