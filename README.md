@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
+1. ❗️ Opened issue [#109](https://github.com/Tech-Phantoms/community/issues/109) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+2. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 4. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
-5. 🎉 Merged PR [#16](https://github.com/starlightknown/starlightknown/pull/16) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
 <!--END_SECTION:activity-->
