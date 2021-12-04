@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#109](https://github.com/Tech-Phantoms/community/issues/109) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-2. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#2914](https://github.com/EddieHubCommunity/support/issues/2914) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
-5. 🗣 Commented on [#3850](https://github.com/jina-ai/jina/issues/3850) in [jina-ai/jina](https://github.com/jina-ai/jina)
+1. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Branding/pull/41) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+2. 🎉 Merged PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
+3. 💪 Opened PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
+4. ❗️ Opened issue [#109](https://github.com/Tech-Phantoms/community/issues/109) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
+5. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
