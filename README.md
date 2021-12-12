@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Branding/pull/41) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🎉 Merged PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
-3. 💪 Opened PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
-4. ❗️ Opened issue [#109](https://github.com/Tech-Phantoms/community/issues/109) in [Tech-Phantoms/community](https://github.com/Tech-Phantoms/community)
-5. 🗣 Commented on [#2913](https://github.com/EddieHubCommunity/support/issues/2913) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#15](https://github.com/starlightknown/LearnScape/issues/15) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+2. ❗️ Closed issue [#24](https://github.com/starlightknown/LearnScape/issues/24) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+3. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Branding/pull/41) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🎉 Merged PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
+5. 💪 Opened PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
 <!--END_SECTION:activity-->
