@@ -170,9 +170,9 @@
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/starlightknown/LearnScape/issues/15) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
-2. ❗️ Closed issue [#24](https://github.com/starlightknown/LearnScape/issues/24) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
-3. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Branding/pull/41) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-4. 🎉 Merged PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
-5. 💪 Opened PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
+1. 🎉 Merged PR [#34](https://github.com/starlightknown/LearnScape/pull/34) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+2. ❗️ Closed issue [#15](https://github.com/starlightknown/LearnScape/issues/15) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+3. ❗️ Closed issue [#24](https://github.com/starlightknown/LearnScape/issues/24) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+4. 💪 Opened PR [#41](https://github.com/EddieHubCommunity/Branding/pull/41) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+5. 🎉 Merged PR [#1](https://github.com/starlightknown/Branding/pull/1) in [starlightknown/Branding](https://github.com/starlightknown/Branding)
 <!--END_SECTION:activity-->
