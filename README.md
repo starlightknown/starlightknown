@@ -167,7 +167,7 @@
 </p>
 
 
-## My Github Activity ⚡
+## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25](https://github.com/starlightknown/starlightknown.github.io/pull/25) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
