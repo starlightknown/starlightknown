@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=flask&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" height="25"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3" height="25"/>
+<img src="https://img.shields.io/badge/-Git-black?&style=for-the-badge&logo=git" height="25"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3" height="25"/>
 </p>
 <br />
 <br />
@@ -167,7 +167,7 @@
 </p>
 
 
-## My Github Activity ⚡
+## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#25](https://github.com/starlightknown/starlightknown.github.io/pull/25) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
