@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Fantastic-4-Devs/at_Aura/issues/1) in [Fantastic-4-Devs/at_Aura](https://github.com/Fantastic-4-Devs/at_Aura)
-2. 🗣 Commented on [#957](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/957) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Opened issue [#4](https://github.com/Fantastic-4-Devs/at_Aura/issues/4) in [Fantastic-4-Devs/at_Aura](https://github.com/Fantastic-4-Devs/at_Aura)
+2. ❗️ Closed issue [#1](https://github.com/Fantastic-4-Devs/at_Aura/issues/1) in [Fantastic-4-Devs/at_Aura](https://github.com/Fantastic-4-Devs/at_Aura)
+3. 🗣 Commented on [#957](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/957) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 4. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#18](https://github.com/starlightknown/starlightknown/pull/18) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
