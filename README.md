@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/starlightknown/thankful.ly/issues/10) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
-2. ❗️ Opened issue [#4](https://github.com/Fantastic-4-Devs/at_Aura/issues/4) in [Fantastic-4-Devs/at_Aura](https://github.com/Fantastic-4-Devs/at_Aura)
-3. ❗️ Closed issue [#1](https://github.com/Fantastic-4-Devs/at_Aura/issues/1) in [Fantastic-4-Devs/at_Aura](https://github.com/Fantastic-4-Devs/at_Aura)
-4. 🗣 Commented on [#957](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/957) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#688](https://github.com/EddieHubCommunity/EddieBot/issues/688) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 🎉 Merged PR [#12](https://github.com/starlightknown/thankful.ly/pull/12) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+2. 💪 Opened PR [#12](https://github.com/starlightknown/thankful.ly/pull/12) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+3. ❗️ Closed issue [#10](https://github.com/starlightknown/thankful.ly/issues/10) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+4. 🎉 Merged PR [#11](https://github.com/starlightknown/thankful.ly/pull/11) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+5. 💪 Opened PR [#11](https://github.com/starlightknown/thankful.ly/pull/11) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
 <!--END_SECTION:activity-->
