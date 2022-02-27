@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/8) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
-2. 💪 Opened PR [#8](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/8) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
-3. ❗️ Opened issue [#1](https://github.com/starlightknown/3D-portfolio/issues/1) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
-4. 🎉 Merged PR [#12](https://github.com/starlightknown/thankful.ly/pull/12) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
-5. 💪 Opened PR [#12](https://github.com/starlightknown/thankful.ly/pull/12) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+1. 🎉 Merged PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+2. 💪 Opened PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+3. 🎉 Merged PR [#9](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/9) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+4. 💪 Opened PR [#9](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/9) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+5. 🎉 Merged PR [#8](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/8) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
 <!--END_SECTION:activity-->
