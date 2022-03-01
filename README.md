@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/starlightknown/3D-portfolio/pull/2) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
-2. 💪 Opened PR [#2](https://github.com/starlightknown/3D-portfolio/pull/2) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
-3. 🎉 Merged PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
-4. 💪 Opened PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
-5. 🎉 Merged PR [#9](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/9) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+1. 🎉 Merged PR [#3](https://github.com/starlightknown/3D-portfolio/pull/3) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
+2. 💪 Opened PR [#3](https://github.com/starlightknown/3D-portfolio/pull/3) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/starlightknown/3D-portfolio/pull/2) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
+4. 💪 Opened PR [#2](https://github.com/starlightknown/3D-portfolio/pull/2) in [starlightknown/3D-portfolio](https://github.com/starlightknown/3D-portfolio)
+5. 🎉 Merged PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
 <!--END_SECTION:activity-->
