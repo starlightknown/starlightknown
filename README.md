@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/starlightknown/thankful.ly/issues/13) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
-2. ❗️ Opened issue [#31](https://github.com/starlightknown/AIry_pages/issues/31) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-3. ❗️ Opened issue [#30](https://github.com/starlightknown/AIry_pages/issues/30) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-4. ❗️ Opened issue [#29](https://github.com/starlightknown/AIry_pages/issues/29) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-5. 🎉 Merged PR [#10](https://github.com/Fantastic-4-Devs/AbstractHacks/pull/10) in [Fantastic-4-Devs/AbstractHacks](https://github.com/Fantastic-4-Devs/AbstractHacks)
+1. 🗣 Commented on [#29](https://github.com/starlightknown/AIry_pages/issues/29) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+2. 🎉 Merged PR [#32](https://github.com/starlightknown/AIry_pages/pull/32) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+3. 💪 Opened PR [#32](https://github.com/starlightknown/AIry_pages/pull/32) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+4. ❗️ Opened issue [#13](https://github.com/starlightknown/thankful.ly/issues/13) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+5. ❗️ Opened issue [#31](https://github.com/starlightknown/AIry_pages/issues/31) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
 <!--END_SECTION:activity-->
