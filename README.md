@@ -170,9 +170,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#25](https://github.com/starlightknown/AIry_pages/issues/25) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-2. 🎉 Merged PR [#35](https://github.com/starlightknown/AIry_pages/pull/35) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-3. 🎉 Merged PR [#36](https://github.com/starlightknown/AIry_pages/pull/36) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-4. 🗣 Commented on [#25](https://github.com/starlightknown/AIry_pages/issues/25) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-5. 🗣 Commented on [#33](https://github.com/starlightknown/AIry_pages/issues/33) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+1. 🎉 Merged PR [#14](https://github.com/starlightknown/thankful.ly/pull/14) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+2. 💪 Opened PR [#14](https://github.com/starlightknown/thankful.ly/pull/14) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+3. ❗️ Closed issue [#25](https://github.com/starlightknown/AIry_pages/issues/25) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+4. 🎉 Merged PR [#35](https://github.com/starlightknown/AIry_pages/pull/35) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
+5. 🎉 Merged PR [#36](https://github.com/starlightknown/AIry_pages/pull/36) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
 <!--END_SECTION:activity-->
