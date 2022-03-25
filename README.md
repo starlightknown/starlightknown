@@ -153,9 +153,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/starlightknown/starlightknown/pull/20) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-2. 💪 Opened PR [#20](https://github.com/starlightknown/starlightknown/pull/20) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-3. 🎉 Merged PR [#19](https://github.com/starlightknown/starlightknown/pull/19) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 💪 Opened PR [#19](https://github.com/starlightknown/starlightknown/pull/19) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. ❗️ Closed issue [#35](https://github.com/starlightknown/LearnScape/issues/35) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+1. ❗️ Closed issue [#13](https://github.com/starlightknown/thankful.ly/issues/13) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+2. 🎉 Merged PR [#20](https://github.com/starlightknown/starlightknown/pull/20) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+3. 💪 Opened PR [#20](https://github.com/starlightknown/starlightknown/pull/20) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🎉 Merged PR [#19](https://github.com/starlightknown/starlightknown/pull/19) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 💪 Opened PR [#19](https://github.com/starlightknown/starlightknown/pull/19) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
