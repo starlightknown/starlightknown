@@ -150,7 +150,8 @@
 
 
 ## My GitHub Activity ⚡
-
+<details>
+	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 2. 💪 Opened PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
@@ -158,3 +159,5 @@
 4. 💪 Opened PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 5. 🗣 Commented on [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 <!--END_SECTION:activity-->
+
+	</details>
