@@ -152,9 +152,9 @@
 ## My GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-2. 💪 Opened PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-3. 🗣 Commented on [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-4. ❗️ Closed issue [#37](https://github.com/starlightknown/AIry_pages/issues/37) in [starlightknown/AIry_pages](https://github.com/starlightknown/AIry_pages)
-5. ❗️ Closed issue [#13](https://github.com/starlightknown/thankful.ly/issues/13) in [starlightknown/thankful.ly](https://github.com/starlightknown/thankful.ly)
+1. 🎉 Merged PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+2. 💪 Opened PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+3. 🎉 Merged PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+4. 💪 Opened PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+5. 🗣 Commented on [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 <!--END_SECTION:activity-->
