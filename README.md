@@ -153,11 +153,11 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/starlightknown/starlightknown/pull/22) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-2. 💪 Opened PR [#22](https://github.com/starlightknown/starlightknown/pull/22) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-3. 🎉 Merged PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-4. 💪 Opened PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
-5. 🎉 Merged PR [#27](https://github.com/starlightknown/starlightknown.github.io/pull/27) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+1. 💪 Opened PR [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+2. 🎉 Merged PR [#22](https://github.com/starlightknown/starlightknown/pull/22) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+3. 💪 Opened PR [#22](https://github.com/starlightknown/starlightknown/pull/22) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+4. 🎉 Merged PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 💪 Opened PR [#21](https://github.com/starlightknown/starlightknown/pull/21) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
 <!--END_SECTION:activity-->
 
 	</details>
