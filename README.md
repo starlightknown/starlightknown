@@ -154,10 +154,10 @@
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
-2. ❗️ Opened issue [#741](https://github.com/cncf/glossary/issues/741) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#736](https://github.com/cncf/glossary/issues/736) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
-5. 💪 Opened PR [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+2. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+3. ❗️ Opened issue [#741](https://github.com/cncf/glossary/issues/741) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#736](https://github.com/cncf/glossary/issues/736) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
 <!--END_SECTION:activity-->
 
 	</details>
