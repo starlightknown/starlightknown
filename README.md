@@ -153,10 +153,10 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❗️ Opened issue [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 💪 Opened PR [#15](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/15) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
-4. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+1. ❗️ Opened issue [#1](https://github.com/sahajoydeep2002/sense-hacker/issues/1) in [sahajoydeep2002/sense-hacker](https://github.com/sahajoydeep2002/sense-hacker)
+2. 🗣 Commented on [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❗️ Opened issue [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 💪 Opened PR [#15](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/15) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
 5. 🗣 Commented on [#7](https://github.com/Sawo-Community/Initial-Contributors-Projects/issues/7) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
 <!--END_SECTION:activity-->
 
