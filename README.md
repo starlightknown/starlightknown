@@ -153,11 +153,11 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/starlightknown/bitspeech/pull/3) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-2. 💪 Opened PR [#3](https://github.com/starlightknown/bitspeech/pull/3) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-3. 🎉 Merged PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
-4. 💪 Opened PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
-5. 🗣 Commented on [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
+1. 🎉 Merged PR [#5](https://github.com/starlightknown/bitspeech/pull/5) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+2. 💪 Opened PR [#5](https://github.com/starlightknown/bitspeech/pull/5) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+3. 🎉 Merged PR [#4](https://github.com/starlightknown/bitspeech/pull/4) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+4. 💪 Opened PR [#4](https://github.com/starlightknown/bitspeech/pull/4) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+5. 🎉 Merged PR [#3](https://github.com/starlightknown/bitspeech/pull/3) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
 <!--END_SECTION:activity-->
 
 	</details>
