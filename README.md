@@ -153,11 +153,11 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
-2. 💪 Opened PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
-3. 🗣 Commented on [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
-4. ❗️ Opened issue [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 💪 Opened PR [#15](https://github.com/Sawo-Community/Initial-Contributors-Projects/pull/15) in [Sawo-Community/Initial-Contributors-Projects](https://github.com/Sawo-Community/Initial-Contributors-Projects)
+1. 🎉 Merged PR [#3](https://github.com/starlightknown/bitspeech/pull/3) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+2. 💪 Opened PR [#3](https://github.com/starlightknown/bitspeech/pull/3) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+3. 🎉 Merged PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
+4. 💪 Opened PR [#1](https://github.com/starlightknown/somedit/pull/1) in [starlightknown/somedit](https://github.com/starlightknown/somedit)
+5. 🗣 Commented on [#764](https://github.com/cncf/glossary/issues/764) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 	</details>
