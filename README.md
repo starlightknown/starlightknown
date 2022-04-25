@@ -153,11 +153,11 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/starlightknown/bitspeech/pull/11) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-2. 💪 Opened PR [#11](https://github.com/starlightknown/bitspeech/pull/11) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-3. 🎉 Merged PR [#10](https://github.com/starlightknown/bitspeech/pull/10) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-4. 💪 Opened PR [#10](https://github.com/starlightknown/bitspeech/pull/10) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-5. 🎉 Merged PR [#9](https://github.com/starlightknown/bitspeech/pull/9) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+1. 🎉 Merged PR [#12](https://github.com/starlightknown/bitspeech/pull/12) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+2. 💪 Opened PR [#12](https://github.com/starlightknown/bitspeech/pull/12) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+3. 🎉 Merged PR [#11](https://github.com/starlightknown/bitspeech/pull/11) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+4. 💪 Opened PR [#11](https://github.com/starlightknown/bitspeech/pull/11) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+5. 🎉 Merged PR [#10](https://github.com/starlightknown/bitspeech/pull/10) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
 <!--END_SECTION:activity-->
 
 	</details>
