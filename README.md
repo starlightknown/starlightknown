@@ -153,11 +153,11 @@
 <details>
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/starlightknown/bitspeech/pull/13) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-2. 💪 Opened PR [#13](https://github.com/starlightknown/bitspeech/pull/13) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-3. 🗣 Commented on [#507](https://github.com/asyncapi/generator/issues/507) in [asyncapi/generator](https://github.com/asyncapi/generator)
-4. 🎉 Merged PR [#12](https://github.com/starlightknown/bitspeech/pull/12) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-5. 💪 Opened PR [#12](https://github.com/starlightknown/bitspeech/pull/12) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+1. 💪 Opened PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🎉 Merged PR [#13](https://github.com/starlightknown/bitspeech/pull/13) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+3. 💪 Opened PR [#13](https://github.com/starlightknown/bitspeech/pull/13) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+4. 🗣 Commented on [#507](https://github.com/asyncapi/generator/issues/507) in [asyncapi/generator](https://github.com/asyncapi/generator)
+5. 🎉 Merged PR [#12](https://github.com/starlightknown/bitspeech/pull/12) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
 <!--END_SECTION:activity-->
 
 	</details>
