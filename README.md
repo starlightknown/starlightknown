@@ -154,10 +154,10 @@
 	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
-2. ❗️ Opened issue [#3904](https://github.com/EddieHubCommunity/support/issues/3904) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#142](https://github.com/asyncapi/cli/issues/142) in [asyncapi/cli](https://github.com/asyncapi/cli)
-4. 💪 Opened PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🎉 Merged PR [#13](https://github.com/starlightknown/bitspeech/pull/13) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+2. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
+3. ❗️ Opened issue [#3904](https://github.com/EddieHubCommunity/support/issues/3904) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#142](https://github.com/asyncapi/cli/issues/142) in [asyncapi/cli](https://github.com/asyncapi/cli)
+5. 💪 Opened PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
 
 	</details>
