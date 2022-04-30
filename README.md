@@ -150,8 +150,6 @@
 
 
 ## My GitHub Activity ⚡
-<details>
-	<summary>Click to expand!</summary>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#720](https://github.com/asyncapi/website/issues/720) in [asyncapi/website](https://github.com/asyncapi/website)
 2. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
@@ -159,5 +157,3 @@
 4. ❗️ Opened issue [#3904](https://github.com/EddieHubCommunity/support/issues/3904) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. 🗣 Commented on [#142](https://github.com/asyncapi/cli/issues/142) in [asyncapi/cli](https://github.com/asyncapi/cli)
 <!--END_SECTION:activity-->
-
-	</details>
