@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#720](https://github.com/asyncapi/website/issues/720) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
-4. ❗️ Opened issue [#3904](https://github.com/EddieHubCommunity/support/issues/3904) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#142](https://github.com/asyncapi/cli/issues/142) in [asyncapi/cli](https://github.com/asyncapi/cli)
+1. 🎉 Merged PR [#23](https://github.com/starlightknown/starlightknown/pull/23) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+2. 💪 Opened PR [#23](https://github.com/starlightknown/starlightknown/pull/23) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+3. 🗣 Commented on [#720](https://github.com/asyncapi/website/issues/720) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#716](https://github.com/asyncapi/website/issues/716) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
