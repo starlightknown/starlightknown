@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#727](https://github.com/asyncapi/website/issues/727) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 💪 Opened PR [#732](https://github.com/asyncapi/website/pull/732) in [asyncapi/website](https://github.com/asyncapi/website)
 2. 🗣 Commented on [#727](https://github.com/asyncapi/website/issues/727) in [asyncapi/website](https://github.com/asyncapi/website)
 3. 🗣 Commented on [#727](https://github.com/asyncapi/website/issues/727) in [asyncapi/website](https://github.com/asyncapi/website)
 4. 🗣 Commented on [#727](https://github.com/asyncapi/website/issues/727) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 🎉 Merged PR [#23](https://github.com/starlightknown/starlightknown/pull/23) in [starlightknown/starlightknown](https://github.com/starlightknown/starlightknown)
+5. 🗣 Commented on [#727](https://github.com/asyncapi/website/issues/727) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
