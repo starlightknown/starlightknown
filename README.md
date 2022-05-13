@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
-2. ❗️ Reopened issue [#20](https://github.com/starlightknown/LearnScape/issues/20) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
-3. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#507](https://github.com/asyncapi/generator/issues/507) in [asyncapi/generator](https://github.com/asyncapi/generator)
-5. 🗣 Commented on [#745](https://github.com/asyncapi/website/issues/745) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#635](https://github.com/asyncapi/website/issues/635) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
+3. ❗️ Reopened issue [#20](https://github.com/starlightknown/LearnScape/issues/20) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+4. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#507](https://github.com/asyncapi/generator/issues/507) in [asyncapi/generator](https://github.com/asyncapi/generator)
 <!--END_SECTION:activity-->
