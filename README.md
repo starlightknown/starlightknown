@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/starlightknown/bitspeech/pull/14) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-2. 💪 Opened PR [#14](https://github.com/starlightknown/bitspeech/pull/14) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
-3. 🗣 Commented on [#635](https://github.com/asyncapi/website/issues/635) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
-5. ❗️ Reopened issue [#20](https://github.com/starlightknown/LearnScape/issues/20) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+1. 🗣 Commented on [#777](https://github.com/asyncapi/website/issues/777) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 💪 Opened PR [#777](https://github.com/asyncapi/website/pull/777) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🎉 Merged PR [#14](https://github.com/starlightknown/bitspeech/pull/14) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
+5. 💪 Opened PR [#14](https://github.com/starlightknown/bitspeech/pull/14) in [starlightknown/bitspeech](https://github.com/starlightknown/bitspeech)
 <!--END_SECTION:activity-->
