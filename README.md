@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#635](https://github.com/asyncapi/website/issues/635) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#779](https://github.com/asyncapi/website/issues/779) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 🗣 Commented on [#777](https://github.com/asyncapi/website/issues/777) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 💪 Opened PR [#777](https://github.com/asyncapi/website/pull/777) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 🗣 Commented on [#742](https://github.com/asyncapi/website/issues/742) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❌ Closed PR [#785](https://github.com/asyncapi/website/pull/785) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 💪 Opened PR [#785](https://github.com/asyncapi/website/pull/785) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 🗣 Commented on [#635](https://github.com/asyncapi/website/issues/635) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#779](https://github.com/asyncapi/website/issues/779) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#777](https://github.com/asyncapi/website/issues/777) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
