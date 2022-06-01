@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/starlightknown/thats-1-minute/pull/1) in [starlightknown/thats-1-minute](https://github.com/starlightknown/thats-1-minute)
-2. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
-3. ❌ Closed PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
-4. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
-5. ❌ Closed PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#807](https://github.com/asyncapi/website/issues/807) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 💪 Opened PR [#1](https://github.com/starlightknown/thats-1-minute/pull/1) in [starlightknown/thats-1-minute](https://github.com/starlightknown/thats-1-minute)
+3. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
+4. ❌ Closed PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
+5. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
