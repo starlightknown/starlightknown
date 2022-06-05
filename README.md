@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Hackerabad/Hackerabad-Website/pull/1) in [Hackerabad/Hackerabad-Website](https://github.com/Hackerabad/Hackerabad-Website)
-2. 🗣 Commented on [#807](https://github.com/asyncapi/website/issues/807) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 💪 Opened PR [#1](https://github.com/starlightknown/thats-1-minute/pull/1) in [starlightknown/thats-1-minute](https://github.com/starlightknown/thats-1-minute)
-4. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
-5. ❌ Closed PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#1](https://github.com/Hackerabad/Hackerabad-Website/issues/1) in [Hackerabad/Hackerabad-Website](https://github.com/Hackerabad/Hackerabad-Website)
+2. 💪 Opened PR [#1](https://github.com/Hackerabad/Hackerabad-Website/pull/1) in [Hackerabad/Hackerabad-Website](https://github.com/Hackerabad/Hackerabad-Website)
+3. 🗣 Commented on [#807](https://github.com/asyncapi/website/issues/807) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 💪 Opened PR [#1](https://github.com/starlightknown/thats-1-minute/pull/1) in [starlightknown/thats-1-minute](https://github.com/starlightknown/thats-1-minute)
+5. ❌ Reopened PR [#801](https://github.com/asyncapi/website/pull/801) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
