@@ -152,8 +152,8 @@
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#801](https://github.com/asyncapi/website/issues/801) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#801](https://github.com/asyncapi/website/issues/801) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 🗣 Commented on [#802](https://github.com/asyncapi/website/issues/802) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#807](https://github.com/asyncapi/website/issues/807) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 💪 Opened PR [#6](https://github.com/Hackerabad/Hackerabad-Website/pull/6) in [Hackerabad/Hackerabad-Website](https://github.com/Hackerabad/Hackerabad-Website)
+2. 🗣 Commented on [#747](https://github.com/asyncapi/website/issues/747) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 🗣 Commented on [#801](https://github.com/asyncapi/website/issues/801) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#801](https://github.com/asyncapi/website/issues/801) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#802](https://github.com/asyncapi/website/issues/802) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
