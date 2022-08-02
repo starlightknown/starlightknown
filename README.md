@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#872](https://github.com/asyncapi/website/issues/872) in [asyncapi/website](https://github.com/asyncapi/website)
-2. ❌ Closed PR [#885](https://github.com/asyncapi/website/pull/885) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 💪 Opened PR [#886](https://github.com/asyncapi/website/pull/886) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 💪 Opened PR [#885](https://github.com/asyncapi/website/pull/885) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 🗣 Commented on [#872](https://github.com/asyncapi/website/issues/872) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❌ Closed PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#794](https://github.com/cncf/glossary/issues/794) in [cncf/glossary](https://github.com/cncf/glossary)
+3. 💪 Opened PR [#1147](https://github.com/cncf/glossary/pull/1147) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#872](https://github.com/asyncapi/website/issues/872) in [asyncapi/website](https://github.com/asyncapi/website)
+5. ❌ Closed PR [#885](https://github.com/asyncapi/website/pull/885) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
