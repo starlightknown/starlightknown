@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1147](https://github.com/cncf/glossary/issues/1147) in [cncf/glossary](https://github.com/cncf/glossary)
-2. ❌ Closed PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
-3. 🗣 Commented on [#794](https://github.com/cncf/glossary/issues/794) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 💪 Opened PR [#1147](https://github.com/cncf/glossary/pull/1147) in [cncf/glossary](https://github.com/cncf/glossary)
-5. 🗣 Commented on [#872](https://github.com/asyncapi/website/issues/872) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❌ Closed PR [#1147](https://github.com/cncf/glossary/pull/1147) in [cncf/glossary](https://github.com/cncf/glossary)
+2. 🗣 Commented on [#1147](https://github.com/cncf/glossary/issues/1147) in [cncf/glossary](https://github.com/cncf/glossary)
+3. ❌ Closed PR [#794](https://github.com/cncf/glossary/pull/794) in [cncf/glossary](https://github.com/cncf/glossary)
+4. 🗣 Commented on [#794](https://github.com/cncf/glossary/issues/794) in [cncf/glossary](https://github.com/cncf/glossary)
+5. 💪 Opened PR [#1147](https://github.com/cncf/glossary/pull/1147) in [cncf/glossary](https://github.com/cncf/glossary)
 <!--END_SECTION:activity-->
