@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 💪 Opened PR [#524](https://github.com/asyncapi/studio/pull/524) in [asyncapi/studio](https://github.com/asyncapi/studio)
-3. 🗣 Commented on [#1005](https://github.com/asyncapi/website/issues/1005) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 💪 Opened PR [#202](https://github.com/asyncapi/.github/pull/202) in [asyncapi/.github](https://github.com/asyncapi/.github)
-5. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#1292](https://github.com/trixi-framework/Trixi.jl/issues/1292) in [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
+2. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 💪 Opened PR [#524](https://github.com/asyncapi/studio/pull/524) in [asyncapi/studio](https://github.com/asyncapi/studio)
+4. 🗣 Commented on [#1005](https://github.com/asyncapi/website/issues/1005) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 💪 Opened PR [#202](https://github.com/asyncapi/.github/pull/202) in [asyncapi/.github](https://github.com/asyncapi/.github)
 <!--END_SECTION:activity-->
