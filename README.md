@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+1. ❗️ Closed issue [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+2. ❗️ Closed issue [#17](https://github.com/starlightknown/starlightknown.github.io/issues/17) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 3. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#524](https://github.com/asyncapi/studio/issues/524) in [asyncapi/studio](https://github.com/asyncapi/studio)
-5. 🗣 Commented on [#1292](https://github.com/trixi-framework/Trixi.jl/issues/1292) in [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
+4. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
