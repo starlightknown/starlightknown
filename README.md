@@ -152,8 +152,8 @@
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 💪 Opened PR [#536](https://github.com/asyncapi/studio/pull/536) in [asyncapi/studio](https://github.com/asyncapi/studio)
-3. ❗️ Closed issue [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-4. ❗️ Closed issue [#17](https://github.com/starlightknown/starlightknown.github.io/issues/17) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
-5. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 💪 Opened PR [#536](https://github.com/asyncapi/studio/pull/536) in [asyncapi/studio](https://github.com/asyncapi/studio)
+4. ❗️ Closed issue [#26](https://github.com/starlightknown/starlightknown.github.io/issues/26) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
+5. ❗️ Closed issue [#17](https://github.com/starlightknown/starlightknown.github.io/issues/17) in [starlightknown/starlightknown.github.io](https://github.com/starlightknown/starlightknown.github.io)
 <!--END_SECTION:activity-->
