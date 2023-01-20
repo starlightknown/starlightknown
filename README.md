@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/starlightknown/design-a-thon/issues/2) in [starlightknown/design-a-thon](https://github.com/starlightknown/design-a-thon)
-2. ❗️ Opened issue [#1](https://github.com/starlightknown/design-a-thon/issues/1) in [starlightknown/design-a-thon](https://github.com/starlightknown/design-a-thon)
-3. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
+1. 🗣 Commented on [#1005](https://github.com/asyncapi/website/issues/1005) in [asyncapi/website](https://github.com/asyncapi/website)
+2. ❗️ Opened issue [#2](https://github.com/starlightknown/design-a-thon/issues/2) in [starlightknown/design-a-thon](https://github.com/starlightknown/design-a-thon)
+3. ❗️ Opened issue [#1](https://github.com/starlightknown/design-a-thon/issues/1) in [starlightknown/design-a-thon](https://github.com/starlightknown/design-a-thon)
 4. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 💪 Opened PR [#536](https://github.com/asyncapi/studio/pull/536) in [asyncapi/studio](https://github.com/asyncapi/studio)
+5. 🗣 Commented on [#1022](https://github.com/asyncapi/website/issues/1022) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
