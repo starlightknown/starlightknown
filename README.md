@@ -151,9 +151,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1359](https://github.com/asyncapi/website/pull/1359) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#12254](https://github.com/argoproj/argo-cd/issues/12254) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+1. 🗣 Commented on [#1349](https://github.com/asyncapi/website/issues/1349) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 💪 Opened PR [#1359](https://github.com/asyncapi/website/pull/1359) in [asyncapi/website](https://github.com/asyncapi/website)
 3. 🗣 Commented on [#12254](https://github.com/argoproj/argo-cd/issues/12254) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#12254](https://github.com/argoproj/argo-cd/issues/12254) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 5. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
