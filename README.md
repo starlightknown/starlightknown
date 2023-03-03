@@ -6,10 +6,12 @@
 ## ⚡ Technologies
 
 ### Languages :
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Design :
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -43,29 +45,12 @@
           </td>
 	  <td align="left" width="300">
 <p align="center">
-            <a href="https://www.linkedin.com/in/karuna-tata63/">
+            <a href="https://www.linkedin.com/in/starlightknown/">
               <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
             </a>
 </p>
           </td>    
         </tr>
-	<tr>
-          <td align="left" width="300">
-<p align="center">
-            <a href="https://www.youtube.com/channel/UCDOJcRyIWd2k2wFSfme5CVA">
-              <img width="30%"src="iconfinder_social_media_isometric_2-youtube_3529652.png" />
-            </a>
-</p>
-          </td>
-	  <td align="left" width="300">
-<p align="center">
-            <a href="https://dev.to/starlightknown">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Karuna Tata's DEV Community Profile" width="30%">
-</a>
-      
-</p>
-          </td>  
-	</tr>
       </table>
     </td>
   </tr>
@@ -140,10 +125,7 @@
   </tbody>
   </table>
 
-<br/>  
-
- [![Karuna's github activity graph](https://activity-graph.herokuapp.com/graph?username=starlightknown&theme=xcode)](https://git.io/starlightknown)
-<p align="center">
+<br/>
 	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=starlightknown&theme=tokyonight" />
 </p>
