@@ -135,7 +135,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
 2. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
-3. ❗️ Opened issue [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
+3. ❗ Opened issue [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
 4. 🗣 Commented on [#1359](https://github.com/asyncapi/website/issues/1359) in [asyncapi/website](https://github.com/asyncapi/website)
 5. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253) in [asyncapi/website](https://github.com/asyncapi/website)
 <!--END_SECTION:activity-->
