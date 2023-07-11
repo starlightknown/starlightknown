@@ -133,9 +133,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
+1. 🗣 Commented on [#1359](https://github.com/asyncapi/website/issues/1359) in [asyncapi/website](https://github.com/asyncapi/website)
+2. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253) in [asyncapi/website](https://github.com/asyncapi/website)
 3. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
-4. ❗ Opened issue [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
-5. 🗣 Commented on [#1359](https://github.com/asyncapi/website/issues/1359) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
+5. ❗ Opened issue [#236](https://github.com/notaryproject/notaryproject.dev/issues/236) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
 <!--END_SECTION:activity-->
