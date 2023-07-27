@@ -133,9 +133,9 @@
 
 ## My GitHub Activity ⚡
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1631843238) in [asyncapi/website](https://github.com/asyncapi/website)
-2. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1630053035) in [asyncapi/website](https://github.com/asyncapi/website)
-3. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253#issuecomment-1577843749) in [asyncapi/website](https://github.com/asyncapi/website)
-4. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236#issuecomment-1556172416) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
-5. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236#issuecomment-1556081587) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
+1. 🎉 Merged PR [#45](https://github.com/starlightknown/LearnScape/pull/45) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
+2. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1631843238) in [asyncapi/website](https://github.com/asyncapi/website)
+3. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1630053035) in [asyncapi/website](https://github.com/asyncapi/website)
+4. 🗣 Commented on [#1253](https://github.com/asyncapi/website/issues/1253#issuecomment-1577843749) in [asyncapi/website](https://github.com/asyncapi/website)
+5. 🗣 Commented on [#236](https://github.com/notaryproject/notaryproject.dev/issues/236#issuecomment-1556172416) in [notaryproject/notaryproject.dev](https://github.com/notaryproject/notaryproject.dev)
 <!--END_SECTION:activity-->
