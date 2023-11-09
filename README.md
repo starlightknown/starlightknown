@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000px" height="200px" src="readme.gif" alt="hello">
+  <img width="1152px" height="648px" src="techart.gif" alt="hello">
 </p>
 
 							 
@@ -20,7 +20,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-### Frameworks, Platforms and Libraries:
+### Frameworks, Platforms, and Libraries:
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
