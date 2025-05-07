@@ -1,141 +1,41 @@
-<p align="center">
-  <img width="1152px" height="648px" src="techart.gif" alt="hello">
-</p>
+<div id="greetings" align="center">
+<h1>
+  Hey, I'm Karuna!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h2>Frontend developer. </h2>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/starlightknown/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.x.com/starlightknown/">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:starlightknown">
+  </a>
+</div>
+<div id="profile views" align="center">
+<img src="https://komarev.com/ghpvc/?username=starlightknown&style=flat-square&color=blue" alt=""/>
+</div>
+<h4>
+  
+🤓 I develop beautiful web experiences.
 
-							 
-## ⚡ Technologies
+🚀 I enjoy solving business problems with code.
 
-### Languages :
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+</h4>
 
-### Design :
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+---
 
-### Frameworks, Platforms, and Libraries:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### :hammer_and_wrench: Languages & Frameworks:
 
-<table align="center" width="100%">
-    </td>
-    <td align="center">
-      <h3>Connect with me:</h3>
-      <table>
-        <tr>
-          <td align="left" width="300">
-<p align="center">
-            <a href="https://twitter.com/starlightknown">
-              <img width="30%" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" />
-            </a>
-</p>
-          </td>
-	  <td align="left" width="300">
-<p align="center">
-            <a href="https://www.linkedin.com/in/starlightknown/">
-              <img width="30%"src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" />
-            </a>
-</p>
-          </td>    
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=yellow)
+![[HTML](https://skillicons.dev/icons?i=html)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%231572B6.svg?style=for-the-badge&logo=javascript3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=typescript3&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-<br />
-
- <h2>🥇 Open Source Projects open for contributions. </h2>
-
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	<td><a href="https://github.com/starlightknown/LearnScape"><b> LearnScape </b></a></td>
-        <td><a href="https://github.com/starlightknown/LearnScape/stargazers">
-	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/LearnScape?style=flat-square&labelColor=343b41"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/LearnScape/network/members">
-        <img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/LearnScape?style=flat-square&labelColor=343b41"/>
-	</a></td>
-	<td><a href="https://github.com/starlightknown/LearnScape/issues">
-	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/LearnScape?style=flat-square"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/LearnScape/pulls">
-	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/LearnScape?style=flat-square"/>
-	</a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/LearnScape?style=flat-square"/></td>
-      </tr>
-      <tr>
-	<td><a href="https://github.com/starlightknown/Prehackstoric-Hack"><b>💻 PreHackstoric</b></a></td>
-        <td><a href="https://github.com/starlightknown/Prehackstoric-Hack/stargazers">
-	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Prehackstoric-Hack?style=flat-square&labelColor=343b41"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Prehackstoric-Hack/network/members">
-	<img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Prehackstoric-Hack?style=flat-square&labelColor=343b41"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Prehackstoric-Hack/issues">
-	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Prehackstoric-Hack?style=flat-square"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Prehackstoric-Hack/pulls">
-	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Prehackstoric-Hack?style=flat-square"/>
-	</a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Prehackstoric-Hack?label=Python&style=flat-square"/></td>
-      <tr>
-	<td><a href="https://github.com/starlightknown/Cyberon"><b> Cyberon </b></a></td>
-        <td><a href="https://github.com/starlightknown/Cyberon/stargazers">
-	<img alt="Stars" src="https://img.shields.io/github/stars/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Cyberon/network/members">
-	<img alt="Forks" src="https://img.shields.io/github/forks/starlightknown/Cyberon?style=flat-square&labelColor=343b41"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Cyberon/issues">
-	<img alt="Issues" src="https://img.shields.io/github/issues/starlightknown/Cyberon?style=flat-square"/>
-	</a></td>
-        <td><a href="https://github.com/starlightknown/Cyberon/pulls">
-	<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/starlightknown/Cyberon?style=flat-square"/>
-	</a></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/starlightknown/Cyberon?style=flat-square"/></td>
-      </tr>
-      
-  </tbody>
-  </table>
-
-<br/>
-	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=starlightknown&theme=tokyonight" />
-</p>
-
-
-## My GitHub Activity ⚡
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/devrev/snap-in-examples/pull/5) in [devrev/snap-in-examples](https://github.com/devrev/snap-in-examples)
-2. 🎉 Merged PR [#4](https://github.com/devrev/snap-in-examples/pull/4) in [devrev/snap-in-examples](https://github.com/devrev/snap-in-examples)
-3. 🎉 Merged PR [#45](https://github.com/starlightknown/LearnScape/pull/45) in [starlightknown/LearnScape](https://github.com/starlightknown/LearnScape)
-4. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1631843238) in [asyncapi/website](https://github.com/asyncapi/website)
-5. 🗣 Commented on [#1359](https://github.com/asyncapi/website/pull/1359#issuecomment-1630053035) in [asyncapi/website](https://github.com/asyncapi/website)
-<!--END_SECTION:activity-->
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starlightknown&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=starlightknown&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
