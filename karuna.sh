@@ -32,13 +32,14 @@ done
 cat << "EOF"
 $ who karuna
 👤 Name: Karuna Tata
-💼 Role: Frontend Engineer @ DevRev (formerly Tech Writer, now UI-wrangling sorcerer)
-🎯 Focus: Frontend development, developer tools, and DevRel experiments
+💼 Role: Community & Support Associate @ Zencoder (ex-Frontend Engineer & Product Advocate @ DevRev)
+🎯 Focus: Developer communities, support that turns into product signal, and DevRel experiments
 
 🛠️ Skills:
+  - Turning users into contributors
   - Turning complex ideas into sleek, usable interfaces
   - Writing docs that people *actually* read
-  - Playing nice with CSS (on most days)
+  - Painting nebulae when the Discord is quiet
 
 💬 Philosophy:
   "Good tools should feel like an extension of your brain... with dark mode."
